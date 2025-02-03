@@ -1,0 +1,209 @@
+html{
+    background-color: #525f61;
+    color: white;
+    font-family:Verdana, Tahoma, sans-serif;
+}
+/* Ссылочки: */
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:active{
+    color: white
+}
+
+*,
+*:before,
+*:after{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+/* Вся страница(По факту все что в бодике) */
+.page{
+    overflow: hidden;
+    display: grid;
+    grid-template-areas: "header" "content" "footer";
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+}
+
+.footer,
+.header{
+    padding: 20px;
+}
+
+.foot,
+.footer{
+    border-top: 1px solid white;
+    background-color: #7c879d;
+    margin-top: auto;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+}
+
+/* Контент страницы */
+.content{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px
+}
+
+/* Хэдер */
+.header{
+    border-bottom: 1px solid white;
+    background-color: #7c879d;
+    margin-top: auto;
+    text-align: center;
+    font-weight: 700;
+    font-size: 150%;
+    
+    
+}
+
+/* Название проекта */
+.footer-base{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-block;
+    transition: .8s;
+}
+
+/* Само тело */
+body{
+    margin:0;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 90%;
+}
+
+/* Рсаположение контактов(github, vk, tg) в футере*/
+.contacts{
+    text-align: right;
+}
+
+/* Иконки соц-сетей с сылками */
+.contacts .icons{
+    font-size: 30px;
+    margin-right: 17px;
+    color:black;
+    transition: .8s;
+    padding-bottom: 30px
+}
+
+/* Элементы списка */
+.start .list{
+    list-style-type: none;
+    padding-left: 0px;
+    font-size: 15px;
+    color: white;
+    transition: .8s;
+}
+
+/* ol с ссылками на возврат в начало и на регистрацию. Регистрации пока нет */
+.ordered-list{
+    padding: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+/* Перечисление соц-сетей */
+.contacts h2{
+    margin-top:0px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px 5px;
+    border-radius: 30%;
+    background-color: black;
+}
+
+.contacts i{
+    transition: .4s;
+}
+
+/* Та фигня что под футером(с годом) */
+.foot{
+    border-top: 0px;
+    background-color: rgb(23, 31, 40);
+    text-align: center;
+    font-size: 10px;
+    padding: 0px;
+}
+
+
+/* Ховер анимации: */
+.contacts .icons:hover{
+    color: white;
+}
+
+.contacts i:hover{
+    transform: translateY(-5px);
+}
+
+.footer-base a:hover{
+    color: black;
+}
+
+.footer-base:hover{
+    transform: translateY(-5px);
+}
+
+.start .list:hover{
+    transform: translateY(-2px);
+}
+
+.start a:hover{
+    color: black;
+}
+
+/* Левая панель */
+.left-panel>.avatar {
+    margin-left: 19%;
+    margin-top: 15%;
+    max-width: 230px;
+    max-height: 230px;
+    width: 60%;
+    height: 35%;
+    border-radius: 50%;
+}
+
+.left-panel {
+   display: block;
+   width: 30%;
+   height: 100%;
+   position: fixed;
+}
+
+.left-panel>p {
+    margin-left: 24%;
+    margin-top: 5%;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.left-panel>#email {
+    font-weight: normal;
+    justify-content: space-around;
+}
+
+.upload-photo{
+
+}
+
+/* Правая панель */
+.right-panel {
+    display: block;
+    height: 100%;
+    margin-left: 30%;
+    padding-left: 1%;
+    border-left: 1px solid black
+}

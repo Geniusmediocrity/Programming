@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Формы</title>
+        <link rel="stylesheet" href="learning.css">
+    </head>
+
+    <body>
+        <form>
+            <p>
+                <label data-icon="u" for="enter-firstname">Имя</label><br>
+                <input type="text" id="enter-firstname" name="enter-firstname"
+                    required="required" placeholder="Введите имя пользователя">
+            </p>
+            <p>
+                <label data-icon="u" for="enter-password">Введите пароль:</label><br>
+                <input name="enter-password" type="password" id="enter-password"
+                maxlength="10" placeholder="Password">
+            </p>
+            <p>
+                <label data-icon="u" for="try-color">Поиграй с цветом</label><br>
+                <input name="try-color" id="try-color" required="required" type="color">
+            </p>
+            <p>
+                <label data-icon="u" for="anyrows-text">Многострочный текст</label><br>
+                <textarea rows="5" cols="20" maxlength="100" id="mytextarea"></textarea>
+            </p>
+            <p>
+                <label data-icon="u" for="data-time">Введите дату и время</label><br>
+                <input name="data-time" id="data-time" type="datetime"><br>
+                <input name="data-time-local" id="data-time-local" type="datetime-local"><br>
+                <input name="data" id="data" type="data"><br>
+                <input name="month" id="month" type="month"><br>
+                <input name="time" id="time" type="time"><br>
+                <input name="week" id="week" type="week">
+            </p>
+            <p>
+                <label for="num-inputs" data-icon="u">Ввод чисел</label><br>
+                <input name="number" id="number" type="number" max="100" min="0" value="1" step="1"><br>
+                <input name="range" id="range" type="range" max="100" min="0" value="1">
+                <div hidden></div>
+                <input type="submit" value="Отправить">
+                <input type="reset" value="Очистить все поля ввода">
+            </p>
+        </form>
+        <hr>
+        <form>
+            <h3><label for="radioflags" data-icon="u">Флажки:</label></h3>
+            <label for="radioflags" data-icon="u">Какой жанр музыки?:</label><br>
+            <input name="radioflags" id="punk" type="radio">punk<br>
+            <input name="radioflags" id="fonk" type="radio">fonk<br>
+            <br>
+            <label for="checkboxflags" data-icon="u">Что?</label><br>
+            <input name="checkboxflags" id="1" type="checkbox">1<br>
+            <input name="checkboxflags" id="2" type="checkbox">2<br>
+            <input name="checkboxflags" id="3" type="checkbox">3<br>
+            <br>
+            <input type="submit" value="Отправить">
+            <input type="reset" value="Очистить все поля ввода">
+        </form>
+        <hr>
+        <form>
+            <select size="3" name="Variables" multiple>
+                <option value="1">var_1</option>
+                <option value="2">var_2</option>
+                <option value="3">var_3</option>
+                <option value="4">var_4</option>
+                <option value="5">var_5</option>
+                <option value="6">var_6</option>
+            </select><br><br>
+            <input type="submit" value="Отправить">
+            <input type="reset" value="Очистить все поля ввода">
+        </form>
+    </body>
+</html>

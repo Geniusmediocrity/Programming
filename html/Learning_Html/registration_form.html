@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Регистрация</title>
+        <link rel="stylesheet" href="registration_form.css">
+        <script src="https://kit.fontawesome.com/002d7bf3c6.js" crossorigin="anonymous"></script>
+        <script scr="registration"></script> <!--Хз что делает но даня попросил-->
+    </head>
+    
+    <body>
+        <a class="hidenanchor tosubscribe"></a>
+        <a class="hidenanchor tologin"></a>
+        <div class="wraper">
+            <form action="" autocomplete="on"> <!-- action  не заполнен так как хз что тут надо-->
+                <h1>Log in</h1>
+                <p>
+                    <label for="username" class="usname" data-icon="u">Enter your username:</label><br>
+                    <i class="fa-solid fa-user"></i>
+                    <input class="username" name="username" required="required" type="text" placeholder="Username">
+                </p>
+                <p>
+                   <label for="emailsignup" class="email" data-icon="e">Enter your email:</label><br>
+                   <i class="fa-solid fa-envelope"></i>
+                   <input class="emailsignup" name="emailsignup" required="required" type="email" placeholder="Email">
+                </p>
+                <p>
+                    <label for="password" class="mypass" data-icon="p">Enter your Password:</label><br>
+                    <i class="fa-solid fa-lock"></i>
+                    <input class="password" name="password" required="required" type="password" placeholder="Password">
+                </p>
+                <p>
+                    <label for="password_confirm" class="confirm" data-icon="p">Confirm your password:</label><br>
+                    <i class="fa-solid fa-lock"></i>
+                    <input class="password_confirm" name="password_confirm" required="required" type="password" placeholder="Confirm password">
+                </p>
+                <p>
+                    <input type="submit" value="Registration">
+                </p>  
+            </form> 
+        </div>
+    </body>
+</html>
