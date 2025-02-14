@@ -5,7 +5,7 @@ def map(func, seq) -> list:
     return result
 
 
-def filter(func, seq) -> bool:
+def filter(func, seq) -> bool:  #! функция возращающая bool это !предикат!
     result = []
     for el in seq:
         boolean = bool(func(el))
