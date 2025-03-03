@@ -23,12 +23,8 @@ tzdata==2025.1
 urllib3==2.3.0
 websocket-client==1.8.0
 wsproto==1.2.0
-#!    Также рассмотрим более сложный пример. 
-#       Предположим, что наше приложение может функционировать в питоне версий 2 и 3.
-#       Разумеется, каждая из этих версий требует своего набора модулей.
-#       В requirements.txt все это можно прописать:
-#
-# cached-property==1.5.2
-# certifi==2020.6.20 ; python_version < ‘3.6’
-# cffi==1.14.3 ; python_version >= '3.6'
-# chardet==3.0.4
+colorama==0.4.6
+executing==2.2.0
+icecream==2.1.4
+numpy==2.2.3
+Pygments==2.19.1
