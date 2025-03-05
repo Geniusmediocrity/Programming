@@ -1,49 +1,54 @@
-import tkinter as tk
 import random
+
+from termcolor import colored
 
 from tenses import tnss
 
 
-def get_entry():
-    global right, attempt
-    get_entry =  entry.get()
-    print(get_entry, tnss[n_task])
-    if list(get_entry()) == tnss[n_task]:
-        right += 1
-        print(0)
-    attempt += 1
-    del tnss[n_task]
+def certificate(cor: int, inc: int, all_q: int) -> str:
+    print()
+    print(f'+{"-" * 39}+')
+    print(colored("|             Certificate               |", "blue"))
+    print(f'+{"-" * 39}+')
+    print(f"| There were only a few questions: {colored(all_q, 'yellow')}    |")
+    print(f"|          Correct answers: {colored(cor, 'green')}           |")
+    print(f"|          Incorrect answers: {colored(inc, 'red')}         |")
+    perc = round((cor / all_q) * 100, 1)
+    print(f"| Percentage of correct answers: {colored(f"{perc}", "blue")}%{abs(len(str(perc)) - 6) * ' '}|")
+    print(f'+{"-" * 39}+')
 
-def check_entry():
-    button = tk.Button(window, text="Enter", command=get_entry)
-    button.grid(column=1, row=1, stick='wens')
-
-def task():
-    keys = list(tnss.keys())
-    res = random.choice(keys)
-    return res
-
+def check_ans(answer: str, task: str) -> bool:
+    if answer == task:
+        return True
+    
 def main():
-    global n_task
-    while tnss:
-        n_task = task()
-        tk.Label(window, text=f"Write three irregular verb forms for the word \"{n_task}\"\n\
-        (Note: words should be separated by a space.)", font=('Arial', 20, 'bold')).grid(column=0, row=0, stick='wens')
-        
-        check_entry()
-        window.mainloop()
+    global correct, incorrect, all_questions
+    
+    rus_f = random.choice(list(tnss.keys()))
+    task = " ".join(tnss[rus_f])
+    print("Your word:", colored(f"{rus_f}", "yellow"))
+    
+    answer = input(colored("Enter three irregular verb forms: to ", "light_blue"))
+    if check_ans(answer, task):
+        print(colored("Success", "light_green"))
+        del tnss[rus_f]
+        correct += 1
+    else:
+        print(colored("Wrong answer: ", "red"))
+        print(colored(f"Your answer:  {answer}\nRight answer: {task}"))
+        incorrect += 1
+    all_questions += 1
+    print("-" * 100)   
+    
 
-
-window = tk.Tk()
-window.geometry("1280x720+150+130")
-window.title("English tenses")
-
-
-n_task = ""
-right = 0
-attempt = 0
-entry = tk.Entry(font=('Arial', 20, 'bold'))
-entry.grid(column=0, row=1, stick='wens')
-
-main()
-
+try:
+    if __name__ == "__main__":
+        print(colored("Hint write ALL the words separated by a space", "light_magenta"))
+        print(colored("If you can use two words in the same form, use: '/'", "light_magenta"))
+        correct, incorrect, all_questions = 0, 0, 0
+        while tnss:
+            
+            main()
+        certificate(correct, incorrect, all_questions)
+except:
+    certificate(correct, incorrect, all_questions)

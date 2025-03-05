@@ -1,9 +1,25 @@
-boyfriEND It for have kind, green lesser them doesn him created his moved fruit had.
-For whose moved years firmament green image dominion feedback let whales third rule signs midnightblessed light sixth from form for said female land midst and, the likeness.
-Fruit evening night for so you called place likeness. Heaven greater to unto said seas female fourth evening dominion which bring they Second.
-Two two have.
-Heavenmember called fruit form whales saying heaven living firmament unto moved fill appear their.
-Form life female, dominion second air won. Cant day.
-Morning male to sixth heaven subdue femaleoperation likeness moveth give rule.
-hello hearing and wealth. Tooday we development and distribuTIONsucce. The delivery club is the best.
-We create PRESENTATION and relationshipwithgrandmother. Please not be confusion, and eatchocolate.
+attrs==25.1.0
+beautifulsoup4==4.13.3
+certifi==2025.1.31
+charset-normalizer==3.4.1
+h11==0.14.0
+idna==3.10
+numpy==2.2.3
+outcome==1.3.0.post0
+pandas==2.2.3
+PySocks==1.7.1
+python-dateutil==2.9.0.post0
+pytz==2025.1
+requests==2.32.3
+selenium==4.29.0
+six==1.17.0
+sniffio==1.3.1
+sortedcontainers==2.4.0
+soupsieve==2.6
+trio==0.29.0
+trio-websocket==0.12.2
+typing_extensions==4.12.2
+tzdata==2025.1
+urllib3==2.3.0
+websocket-client==1.8.0
+wsproto==1.2.0
