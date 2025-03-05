@@ -1,13 +1,17 @@
-student = ['Троечников С.М.', 2, 3, 3, 2, 3, 4, 3, 5, 5, 1]
+import datetime
 
-match student:
-    case fio, m1, m2, m3:               # 1-й case
-        print(f"{fio}: {m1} {m2} {m3}")
-    case tuple() as fio, m1, m2, m3, *_: # 2-й case
-        print(f"{fio}: {m1} {m2} {m3}")
-    case list() as fio, m1, m2, m3, *_: # 3-й case
-        print(f"{fio}: {m1} {m2} {m3}")
-    case tuple() as fio, m1, m2, m3:    # 4-й case
-        print(f"{fio}: {m1} {m2} {m3}")
-    case _:                             # 5-й case
-        print("Некорректный формат данных")
+
+week_days = ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье']
+
+def display_events():
+    with open(file="events.txt", mode="rt", encoding="utf-8") as event_f, open(file="expect.txt", mode="wt", encoding="utf-8") as expect_f:
+        readlines = list(map(lambda el: el.rstrip().split(", "), event_f.readlines()))
+        for event, date in readlines:
+            res = ""
+            year, month, days = date.split("-")
+            obj_date = datetime.date(int(year), int(month), int(days))
+            res = f'{obj_date.strftime("%A")}, {date}: {event} - Осталось {0} дней'
+            print(res, file=expect_f)
+            
+print(datetime.datetime.now(datetime.timezone.utc))
+display_events()

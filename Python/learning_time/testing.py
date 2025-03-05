@@ -1,7 +1,5 @@
-import calendar
+import locale
 
 
-year = int(input())
-clndr = calendar.calendar(year, 3)
-cal = clndr.getfirstweekday()
-print(cal)
+
+locale.set_lo
