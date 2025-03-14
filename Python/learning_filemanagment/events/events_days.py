@@ -21,3 +21,5 @@ def display_events():
             
 
 display_events()
+
+#!!!!   datetime.datetime.strptime(line.strip(), '%d-%m-%y')    !!!!

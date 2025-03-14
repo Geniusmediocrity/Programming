@@ -15,6 +15,7 @@ from icecream import ic
 
 #!                      datetime
 #? Класс datetime объединяет в себе дату и время. Это самый универсальный класс для работы с временными объектами.
+#!!!    datetime.datetime.strptime(line.strip(), '%d-%m-%y')    !!!
 my_date = datetime.datetime(2025, 2, 12, 10, 42, 22)
 ic(f"my_date = {my_date}")
 print()
