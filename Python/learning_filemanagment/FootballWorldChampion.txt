@@ -1,0 +1,1763 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+	<script>!function(){var e=0,i=screen.width,t=parseInt(document.cookie.replace(/(?:(?:^|.*;\s*)device_type\s*\=\s*([^;]*).*$)|^.*$/,"$1"));if(!t)return!1;screen.height<i&&(i=screen.height),(e=i<500?2:screen.width>=1280?1:3)!=t&&(document.cookie="device_type="+e+";path=/;expires="+new Date(+new Date+12096e5).toGMTString(),document.location.reload())}();</script><title>Чемпионат мира по футболу 2022 (ЧМ-2022 в Катаре) | Результаты - Soccer365</title>
+<meta name="description" content="" /><meta name="google-site-verification" content="K0lEj2x_yZA4OVhSQ_fx3ncagtAmLz8-Kv_6fHw1euU" />
+<meta name="yandex-verification" content="6b15c9ae19fe4d4e" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noindex,follow" /><link rel="alternate" hreflang="ru" href="https://soccer365.ru/competitions/742/results/"/><link rel="alternate" hreflang="en" href="https://soccer365.me/competitions/742/results/"/><link rel="dns-prefetch" href="https://s.scr365.net/">
+<link rel="dns-prefetch" href="//www.google-analytics.com/">
+<link rel="icon" type="image/png" sizes="16x16" href="https://s.scr365.net/img/favicon16x16.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://s.scr365.net/img/favicon96x96.png" />
+<link rel="apple-touch-icon" href="https://s.scr365.net/img/favicon96x96.png" />
+<link rel="alternate" type="application/rss+xml" title="Лента новостей" href="https://s.scr365.net/s1/news.xml" />
+	<link href="https://s.scr365.net/css/desktop.min.css?v=1709889476" rel="stylesheet" type="text/css"/>	<script  type="text/javascript" src="https://s.scr365.net/js/jquery.min.js?v=1"></script><script  type="text/javascript" src="https://s.scr365.net/js/main.min.js?v=1710224050"></script><script type="text/javascript">
+	var sys_url = 'https://soccer365.ru/';
+	var sys_node = 'https://n.scr365.net';
+	var sys_static = 'https://s.scr365.net/';
+	var sys_language = 'ru';
+	var sys_is_mobile = 0;
+	var sys_country = 'US';
+	var checkNewWindow = false;
+	var is_search_bot = true;
+	var sys_page_id = 0;
+		</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ2WWHERLS"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-YQ2WWHERLS');
+</script></head>
+<body>
+<div id="main_container">
+	<div class="header_top">
+
+		<div class="adv plc7"><div id='zone_1526694879' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1526694879';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1526694879,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_7">$(document).ready(function(){adView(7,'Хидер (десктоп)','Агенство - 980х90 - хидер',true);});</script></div>
+		<div class="header_top_logo">
+			<a class="logo" href="/"><div>RU</div></a>			<div class="header_live">
+				<div id="button" class="butn_chat" onClick="window.open('https://soccer365.ru/chat/room/14024052/','Чат','width=340,height=550,scrollbars=yes');">Чат</div>				<div id="button" onClick="modal_remote('/?c=live&a=games_data&competition_id=0&dt=&fr=1&noads=1');GAEvent('Разное',{'event_category':'Сквозные','event_action':'Игры онлайн'});">Live</div>
+			</div>
+						<div class="header_news">
+								<a class="news_item" href="/news/19157/" onClick="GAEvent('Разное',{'event_category':'Новости - сквозной блок','event_action':'клик'});"><img loading="lazy" align="left" src="https://s.scr365.net/s1/photo/24_73_15/rjL6Q5yCiJvo7o1.jpg" />&nbsp;&nbsp;Жеребьёвка 1/4 финала ЛЧ: Манчестер Сити, Бавария, Барселона и Реал Мадрид узнают своих соперников</a>
+							</div>
+					</div>
+	</div>
+	<div class="header_menu">
+		<div class="hds_item">
+			<a class="home" title="Главная" data-lang="Главная" href="/"></a>
+		</div>
+				<div class="hds_item">
+			<a id="hds_item_link" href="/news/">Новости</a>
+			<div class="hds_submenu">
+				<a href="/articles/">Статьи</a>
+				<a href="/bettingtips/">Прогнозы</a>
+				<a href="/press/">Обзор прессы</a>
+			</div>
+		</div>
+				<div class="hds_item"><a id="hds_item_link" href="/online/">Матчи</a></div>
+		<div class="hds_item"><a id="hds_item_link" href="/competitions/">Соревнования</a>
+			<div class="hds_submenu comps">
+								<div class="col">
+										<a href="/competitions/742/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_33_11/46atU_16_742.png" /><span>Чемпионат мира</span></div></a>
+										<a href="/competitions/24/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_282_9/A7dqy_16_24.png" /><span>Чемпионат Европы</span></div></a>
+										<a href="/competitions/19/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_69_9/to3rP5Z_16_19.svg" /><span>Лига Чемпионов</span></div></a>
+										<a href="/competitions/20/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_206_13/f7CxHuG_16_20.png" /><span>Лига Европы</span></div></a>
+										<a href="/competitions/618/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_74_19/hYJ5wN_16_618.png" /><span>Кубок Америки</span></div></a>
+										<a href="/competitions/1658/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/18_248_6/9SdNc7fY_16_1658.png" /><span>Лига наций УЕФА</span></div></a>
+										<a href="/competitions/739/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_83_10/M3sbweUG7_16_739.png" /><span>Чемпионат мира (отборочный турнир, Европа)</span></div></a>
+										<a href="/competitions/746/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_261_12/e1NFg8fvN_16_746.png" /><span>Чемпионат Европы U21</span></div></a>
+										<a href="/competitions/1016/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_82_13/7B4bPBlT_16_1016.svg" /><span>Олимпийские игры</span></div></a>
+										<a href="/competitions/938/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_285_12/jWqEu_16_938.png" /><span>Чемпионат Европы U19</span></div></a>
+										<div class="mrgt20"></div>
+					<a href="/competitions/">Все соревнования</a>
+				</div>
+				<div class="col exp">
+																							<div class="group">												<a href="/competitions/12/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Премьер-Лига</span></div></a>
+												<a href="/competitions/23/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Кубок Англии</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/16/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Spain.png" /><span>Примера</span></div></a>
+												<a href="/competitions/758/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Spain.png" /><span>Кубок Испании</span></div></a>
+											</div>					<div class="cl_both"></div>																			<div class="group">												<a href="/competitions/15/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Italy.png" /><span>Серия А</span></div></a>
+												<a href="/competitions/627/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Italy.png" /><span>Серия B</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/13/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Russian Federation.png" /><span>Премьер-Лига</span></div></a>
+												<a href="/competitions/687/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Russian Federation.png" /><span>Первая лига</span></div></a>
+											</div>					<div class="cl_both"></div>																			<div class="group">												<a href="/competitions/17/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Germany.png" /><span>Бундеслига</span></div></a>
+												<a href="/competitions/813/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Germany.png" /><span>Кубок Германии</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/18/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Лига 1</span></div></a>
+												<a href="/competitions/581/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Лига 2</span></div></a>
+											</div>					<div class="cl_both"></div>																			<div class="group">												<a href="/competitions/14/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Ukraine.png" /><span>Премьер-Лига</span></div></a>
+																																															<a href="/competitions/723/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Turkey.png" /><span>Суперлига</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/436/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/United States of America.png" /><span>МЛС</span></div></a>
+																																															<a href="/competitions/596/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Netherlands.png" /><span>Эредивизи</span></div></a>
+											</div>																		</div>
+							</div>
+		</div>
+		<div class="hds_item"><a id="hds_item_link" href="/video/">Видео</a></div>
+				<div class="hds_item">
+			<a id="hds_item_link" href="/talk/">Общение</a>
+			<div class="hds_submenu">
+				<a href="/talk/">Форум</a>
+				<a href="/users/">Пользователи</a>
+				<a href="/users/ban/">Баны</a>
+				<a href="/page/reformal/">Отзывы и предложения</a>
+			</div>
+		</div>
+		<div class="hds_item">
+			<a id="hds_item_link" href="javascript:void(null)">Разное</a>
+			<div class="hds_submenu">
+				<a href="/tv/">Телепрограмма</a>
+				<a href="/transfers/">Трансферы</a>
+				<a href="/ranking/fifa/">Рейтинг ФИФА</a>
+				<a href="/ranking/uefa/">Рейтинг УЕФА</a>
+				<a href="/awards/">Награды</a>
+				<a href="/players/birthday/">Дни рождения</a>
+				<a href="/betting/rating/">Рейтинг БК</a>
+			</div>
+		</div>
+				<div class="hds_item prognos"><a id="hds_item_link" href="/predictions/"><span class="flag16" style="background-image:url('https://s.scr365.net/img/cup.svg')">Конкурс прогнозов</span></a></div>				<div class="hds_item auth" onClick="modal_remote('/?c=accounts&a=auth')">
+			<span class="iconhmenu" style="background-image:url('https://s.scr365.net/img/icon-enter-16-white.png');">Войти</span>
+		</div>
+				<div class="hds_tmzone has-tip" data-tooltipster='{"side":"left"}' onClick="modal_remote('timezones.php')" title="Выберите ваш часовой пояс">
+			<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/time.svg" /><span id="hds_time_site" class="iconhmenu">01:50 15.03</span></div>
+		</div>
+		<div class="hds_search">
+			<form action="https://soccer365.ru/" method="get" onsubmit="return $('.search_text').val()!='';" autocomplete="off">
+				<div class="search_form" onMouseOver="$('.search_text').focus();" onMouseOut="$('.search_text').blur()">
+					<input name="a" type="hidden" value="search"/>
+					<input class="search_text" name="q" type="text" value="" placeholder="поиск"/>
+					<input class="search_button" type="submit" value="&nbsp;"/>
+				</div>
+			</form>
+		</div>
+		<div class="cl_both"></div>
+	</div>
+	<div class="mrgt20"></div><div class="breadcrumb">
+	<script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Соревнования","item":"https://soccer365.ru/competitions/"},{"@type":"ListItem","position":2,"name":"Чемпионат мира","item":"https://soccer365.ru/competitions/742/"},{"@type":"ListItem","position":3,"name":"Результаты","item":"https://soccer365.ru/competitions/742/results/"}]}</script>					<a href="/">Soccer365</a>
+					<span class="separator">›</span>		<a href="/competitions/">Соревнования</a>
+					<span class="separator">›</span>		<a href="/competitions/742/"><span>Чемпионат мира</span></a>
+					<span class="separator">›</span>				<div class="selectbox">
+	<span class="selectbox-label">2022</span>
+	<div class="selectbox-menu">
+				<a class="selectbox-selected" href="/competitions/742/results/">2022</a>
+				<a href="/competitions/742/2018/results/">2018</a>
+				<a href="/competitions/742/2014/results/">2014</a>
+				<a href="/competitions/742/2010/results/">2010</a>
+				<a href="/competitions/742/2006/results/">2006</a>
+				<a href="/competitions/742/2002/results/">2002</a>
+				<a href="/competitions/742/1998/results/">1998</a>
+				<a href="/competitions/742/1994/results/">1994</a>
+				<a href="/competitions/742/1990/results/">1990</a>
+				<a href="/competitions/742/1986/results/">1986</a>
+				<a href="/competitions/742/1982/results/">1982</a>
+				<a href="/competitions/742/1978/results/">1978</a>
+				<a href="/competitions/742/1974/results/">1974</a>
+				<a href="/competitions/742/1970/results/">1970</a>
+				<a href="/competitions/742/1966/results/">1966</a>
+				<a href="/competitions/742/1962/results/">1962</a>
+				<a href="/competitions/742/1958/results/">1958</a>
+				<a href="/competitions/742/1954/results/">1954</a>
+				<a href="/competitions/742/1950/results/">1950</a>
+				<a href="/competitions/742/1938/results/">1938</a>
+				<a href="/competitions/742/1934/results/">1934</a>
+				<a href="/competitions/742/1930/results/">1930</a>
+			</div>
+</div>					<span class="separator">›</span>		<h1 class="breadcrumb">Результаты</h1>
+				<div class="share_block"><div class="share_btn" onclick="share()"></div><div class="a2a_kit a2a_kit_size_20 a2a_default_style hide"><a class="a2a_button_facebook"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_twitter"></a><a class="a2a_button_telegram"></a><a class="a2a_button_viber"></a></div></div>	</div><div class="tabs_items">
+		<span class="tabs_item"><a href="/competitions/742/">Турнир</a></span> 
+<span class="tabs_item"><a href="/competitions/742/shedule/">Расписание</a></span> 
+<span class="tabs_item active"><a href="/competitions/742/results/">Результаты</a></span> 
+<span class="tabs_item"><a href="/competitions/742/stadiums/">Стадионы</a></span> 
+<span class="tabs_item"><a href="/competitions/742/teams/">Команды</a></span> 
+<span class="tabs_item"><a href="/competitions/742/players/">Статистика игроков</a></span> 
+<span class="tabs_item"><a href="/competitions/742/coaches/">Тренеры</a></span> 
+<span class="tabs_item"><a href="/competitions/742/referees/">Арбитры</a></span> 
+<span class="tabs_item"><a href="/competitions/742/news/">Новости</a></span> 
+<span class="tabs_item"><a href="/competitions/742/history/">История</a></span> 
+<span class="tabs_item"><a href="/competitions/742/predictions/">Прогнозы</a></span> 
+		</div>
+<div class="page_main_content">
+		<div class="tools mb10">
+		<div class="selectboxes">
+						<div id="box_clubs" class="selectbox">
+				<span class="selectbox-label">Все команды</span>
+				<div class="selectbox-menu">
+					<a class="selectbox-selected" href="javascript:void(0)" onclick="filtersData('club',0);">Все команды</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','440');">Австралия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','331');">Англия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','449');">Аргентина</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','423');">Бельгия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','452');">Бразилия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','7033');">Гана</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','334');">Германия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','450');">Дания</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','6880');">Иран</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','332');">Испания</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','7115');">Камерун</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','393');">Канада</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','369');">Катар</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','401');">Коста-Рика</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','7050');">Марокко</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','441');">Мексика</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','337');">Нидерланды</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','394');">Польша</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','453');">Португалия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','431');">США</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','7025');">Саудовская Аравия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','396');">Сенегал</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','437');">Сербия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','7032');">Тунис</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','454');">Уругвай</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','420');">Уэльс</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','335');">Франция</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','451');">Хорватия</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','445');">Швейцария</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','7072');">Эквадор</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','429');">Южная Корея</a>
+										<a href="javascript:void(0)" onclick="filtersData('club','6872');">Япония</a>
+									</div>
+			</div>
+									<div id="box_cities" class="selectbox">
+				<span class="selectbox-label">Все города</span>
+				<div class="selectbox-menu">
+					<a class="selectbox-selected" href="javascript:void(0)" onclick="filtersData('city',0);">Все города</a>
+										<a href="javascript:void(0)" onclick="filtersData('city',14070);">Аль Тумама</a>
+										<a href="javascript:void(0)" onclick="filtersData('city',14067);">Ар-Райян</a>
+										<a href="javascript:void(0)" onclick="filtersData('city',6057);">Доха</a>
+										<a href="javascript:void(0)" onclick="filtersData('city',14066);">Лусаил</a>
+										<a href="javascript:void(0)" onclick="filtersData('city',14071);">Рас-Абу-Абуд</a>
+										<a href="javascript:void(0)" onclick="filtersData('city',14069);">Эль-Вакра</a>
+										<a href="javascript:void(0)" onclick="filtersData('city',14068);">Эль-Хаур</a>
+									</div>
+			</div>
+									<div id="box_stadiums" class="selectbox">
+				<span class="selectbox-label">Все стадионы</span>
+				<div class="selectbox-menu">
+					<a class="selectbox-selected" href="javascript:void(0)" onclick="filtersData('stadium',0);">Все стадионы</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','3438');">Аль Тумама</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','2486');">Ахмед бин Али</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','3435');">Лусаил</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','258');">Международный стадион Халифа</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','3439');">Стадион 974</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','3179');">Эдьюкейшн Сити Стэдиум</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','3436');">Эль-Байт</a>
+										<a href="javascript:void(0)" onclick="filtersData('stadium','3437');">Эль-Джануб</a>
+									</div>
+			</div>
+						<div class="cl_both"></div>
+		</div>
+					<div id="switch-shedule" class="switch-box" style="display:none">
+	<label class="switch">
+		<input type="checkbox">
+		<span class="slider"></span>
+	</label>
+	<span class="switch-text">Отмененные</span>
+</div>			</div>
+		<div id="result_data">
+																																						<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">Финал</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="449" dt-at="335" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292874" class="game_link" href="/games/15292874/" title="Аргентина - Франция">
+		<div class="status"><span class="size10">18.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+				<div class="pen">пен</div>				<div class="name"><div class="img16"><span>Аргентина</span><img loading="lazy" src="https://s.scr365.net/s1/logo/SjLeK2j_16_449.png" /></div></div>
+				<div class="gls">3</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2023/10/13/2ywVQjz_16_335.png" /><span>Франция</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292874)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																																												<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">Матч за 3-е место</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="451" dt-at="7050" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292873" class="game_link" href="/games/15292873/" title="Хорватия - Марокко">
+		<div class="status"><span class="size10">17.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Хорватия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/DBc1P_16_451.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/UvIZSq5_16_7050.png" /><span>Марокко</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292873)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																																												<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">1/2 финала</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="335" dt-at="7050" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292872" class="game_link" href="/games/15292872/" title="Франция - Марокко">
+		<div class="status"><span class="size10">14.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Франция</span><img loading="lazy" src="https://s.scr365.net/teams/2023/10/13/2ywVQjz_16_335.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/UvIZSq5_16_7050.png" /><span>Марокко</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292872)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="449" dt-at="451" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292871" class="game_link" href="/games/15292871/" title="Аргентина - Хорватия">
+		<div class="status"><span class="size10">13.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Аргентина</span><img loading="lazy" src="https://s.scr365.net/s1/logo/SjLeK2j_16_449.png" /></div></div>
+				<div class="gls">3</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/DBc1P_16_451.png" /><span>Хорватия</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292871)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																																												<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">1/4 финала</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="331" dt-at="335" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292870" class="game_link" href="/games/15292870/" title="Англия - Франция">
+		<div class="status"><span class="size10">10.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Англия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/1SYN9BXb_16_331.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2023/10/13/2ywVQjz_16_335.png" /><span>Франция</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292870)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7050" dt-at="453" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292869" class="game_link" href="/games/15292869/" title="Марокко - Португалия">
+		<div class="status"><span class="size10">10.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Марокко</span><img loading="lazy" src="https://s.scr365.net/s1/logo/UvIZSq5_16_7050.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/gpjQx_16_453.png" /><span>Португалия</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292869)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="337" dt-at="449" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292868" class="game_link" href="/games/15292868/" title="Нидерланды - Аргентина">
+		<div class="status"><span class="size10">09.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Нидерланды</span><img loading="lazy" src="https://s.scr365.net/s1/logo/dDlbkO_16_337.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+				<div class="pen">пен</div>				<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/SjLeK2j_16_449.png" /><span>Аргентина</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292868)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="451" dt-at="452" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292867" class="game_link" href="/games/15292867/" title="Хорватия - Бразилия">
+		<div class="status"><span class="size10">09.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+				<div class="pen">пен</div>				<div class="name"><div class="img16"><span>Хорватия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/DBc1P_16_451.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/n44nFO_16_452.png" /><span>Бразилия</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292867)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																																												<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">1/8 финала</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="453" dt-at="445" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292866" class="game_link" href="/games/15292866/" title="Португалия - Швейцария">
+		<div class="status"><span class="size10">06.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Португалия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/gpjQx_16_453.png" /></div></div>
+				<div class="gls">6</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/hoWJfK_16_445.png" /><span>Швейцария</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292866)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7050" dt-at="332" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292865" class="game_link" href="/games/15292865/" title="Марокко - Испания">
+		<div class="status"><span class="size10">06.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+				<div class="pen">пен</div>				<div class="name"><div class="img16"><span>Марокко</span><img loading="lazy" src="https://s.scr365.net/s1/logo/UvIZSq5_16_7050.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/JzLEsV0_16_332.png" /><span>Испания</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292865)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="452" dt-at="429" dt-ct="14071" dt-st="3439" >
+		<a dt-id="15292863" class="game_link" href="/games/15292863/" title="Бразилия - Южная Корея">
+		<div class="status"><span class="size10">05.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Бразилия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/n44nFO_16_452.png" /></div></div>
+				<div class="gls">4</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/4M09wHd_16_429.png" /><span>Южная Корея</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292863)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="6872" dt-at="451" dt-ct="14069" dt-st="3437" >
+		<a dt-id="15292864" class="game_link" href="/games/15292864/" title="Япония - Хорватия">
+		<div class="status"><span class="size10">05.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Япония</span><img loading="lazy" src="https://s.scr365.net/s1/logo/ZT68vwe_16_6872.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+				<div class="pen">пен</div>				<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/DBc1P_16_451.png" /><span>Хорватия</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292864)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="331" dt-at="396" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292862" class="game_link" href="/games/15292862/" title="Англия - Сенегал">
+		<div class="status"><span class="size10">04.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Англия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/1SYN9BXb_16_331.png" /></div></div>
+				<div class="gls">3</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/ZuRsE77NA_16_396.png" /><span>Сенегал</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292862)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="335" dt-at="394" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292861" class="game_link" href="/games/15292861/" title="Франция - Польша">
+		<div class="status"><span class="size10">04.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Франция</span><img loading="lazy" src="https://s.scr365.net/teams/2023/10/13/2ywVQjz_16_335.png" /></div></div>
+				<div class="gls">3</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/tuAxgv2Mh_16_394.png" /><span>Польша</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292861)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="449" dt-at="440" dt-ct="14067" dt-st="2486" >
+		<a dt-id="15292860" class="game_link" href="/games/15292860/" title="Аргентина - Австралия">
+		<div class="status"><span class="size10">03.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Аргентина</span><img loading="lazy" src="https://s.scr365.net/s1/logo/SjLeK2j_16_449.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/XGWS1_16_440.png" /><span>Австралия</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292860)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="337" dt-at="431" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292859" class="game_link" href="/games/15292859/" title="Нидерланды - США">
+		<div class="status"><span class="size10">03.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Нидерланды</span><img loading="lazy" src="https://s.scr365.net/s1/logo/dDlbkO_16_337.png" /></div></div>
+				<div class="gls">3</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/lnnj94OZ_16_431.png" /><span>США</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292859)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																																																			<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">Групповая стадия | 3-й тур</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="437" dt-at="445" dt-ct="14071" dt-st="3439" >
+		<a dt-id="15292919" class="game_link" href="/games/15292919/" title="Сербия - Швейцария">
+		<div class="status"><span class="size10">02.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Сербия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/Iygszx_16_437.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/hoWJfK_16_445.png" /><span>Швейцария</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292919)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7115" dt-at="452" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292918" class="game_link" href="/games/15292918/" title="Камерун - Бразилия">
+		<div class="status"><span class="size10">02.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Камерун</span><img loading="lazy" src="https://s.scr365.net/s1/logo/YXt0gMG_16_7115.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/n44nFO_16_452.png" /><span>Бразилия</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292918)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7033" dt-at="454" dt-ct="14069" dt-st="3437" >
+		<a dt-id="15292921" class="game_link" href="/games/15292921/" title="Гана - Уругвай">
+		<div class="status"><span class="size10">02.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Гана</span><img loading="lazy" src="https://s.scr365.net/s1/logo/9vGhW8_16_7033.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/XeXD7ur_16_454.png" /><span>Уругвай</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292921)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="429" dt-at="453" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292920" class="game_link" href="/games/15292920/" title="Южная Корея - Португалия">
+		<div class="status"><span class="size10">02.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Южная Корея</span><img loading="lazy" src="https://s.scr365.net/s1/logo/4M09wHd_16_429.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/gpjQx_16_453.png" /><span>Португалия</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292920)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="401" dt-at="334" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292915" class="game_link" href="/games/15292915/" title="Коста-Рика - Германия">
+		<div class="status"><span class="size10">01.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Коста-Рика</span><img loading="lazy" src="https://s.scr365.net/s1/logo/YtqiS_16_401.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/60IodcQZ_16_334.png" /><span>Германия</span></div></div>
+				<div class="gls">4</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292915)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="6872" dt-at="332" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292914" class="game_link" href="/games/15292914/" title="Япония - Испания">
+		<div class="status"><span class="size10">01.12.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Япония</span><img loading="lazy" src="https://s.scr365.net/s1/logo/ZT68vwe_16_6872.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/JzLEsV0_16_332.png" /><span>Испания</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292914)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="393" dt-at="7050" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292917" class="game_link" href="/games/15292917/" title="Канада - Марокко">
+		<div class="status"><span class="size10">01.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Канада</span><img loading="lazy" src="https://s.scr365.net/s1/logo/I9toxl_16_393.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/UvIZSq5_16_7050.png" /><span>Марокко</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292917)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="451" dt-at="423" dt-ct="14067" dt-st="2486" >
+		<a dt-id="15292916" class="game_link" href="/games/15292916/" title="Хорватия - Бельгия">
+		<div class="status"><span class="size10">01.12.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Хорватия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/DBc1P_16_451.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/CaIG9yDJD_16_423.png" /><span>Бельгия</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292916)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7025" dt-at="441" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292911" class="game_link" href="/games/15292911/" title="Саудовская Аравия - Мексика">
+		<div class="status"><span class="size10">30.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Саудовская Аравия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/VpqlhuRzN_16_7025.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/PK8zR_16_441.png" /><span>Мексика</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292911)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="394" dt-at="449" dt-ct="14071" dt-st="3439" >
+		<a dt-id="15292910" class="game_link" href="/games/15292910/" title="Польша - Аргентина">
+		<div class="status"><span class="size10">30.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Польша</span><img loading="lazy" src="https://s.scr365.net/s1/logo/tuAxgv2Mh_16_394.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/SjLeK2j_16_449.png" /><span>Аргентина</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292910)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7032" dt-at="335" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292912" class="game_link" href="/games/15292912/" title="Тунис - Франция">
+		<div class="status"><span class="size10">30.11.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Тунис</span><img loading="lazy" src="https://s.scr365.net/s1/logo/38KjBBys_16_7032.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2023/10/13/2ywVQjz_16_335.png" /><span>Франция</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292912)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="440" dt-at="450" dt-ct="14069" dt-st="3437" >
+		<a dt-id="15292913" class="game_link" href="/games/15292913/" title="Австралия - Дания">
+		<div class="status"><span class="size10">30.11.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Австралия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/XGWS1_16_440.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/Km5gIR_16_450.png" /><span>Дания</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292913)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="6880" dt-at="431" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292909" class="game_link" href="/games/15292909/" title="Иран - США">
+		<div class="status"><span class="size10">29.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Иран</span><img loading="lazy" src="https://s.scr365.net/s1/logo/nGXUev_16_6880.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/lnnj94OZ_16_431.png" /><span>США</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292909)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="420" dt-at="331" dt-ct="14067" dt-st="2486" >
+		<a dt-id="15292908" class="game_link" href="/games/15292908/" title="Уэльс - Англия">
+		<div class="status"><span class="size10">29.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Уэльс</span><img loading="lazy" src="https://s.scr365.net/s1/logo/aYgD8Y_16_420.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/1SYN9BXb_16_331.png" /><span>Англия</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292908)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7072" dt-at="396" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292907" class="game_link" href="/games/15292907/" title="Эквадор - Сенегал">
+		<div class="status"><span class="size10">29.11.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Эквадор</span><img loading="lazy" src="https://s.scr365.net/s1/logo/DL1uUsDk_16_7072.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/ZuRsE77NA_16_396.png" /><span>Сенегал</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292907)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="337" dt-at="369" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292906" class="game_link" href="/games/15292906/" title="Нидерланды - Катар">
+		<div class="status"><span class="size10">29.11.22, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Нидерланды</span><img loading="lazy" src="https://s.scr365.net/s1/logo/dDlbkO_16_337.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/w2Hc6ZJ_16_369.png" /><span>Катар</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292906)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																																																			<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">Групповая стадия | 2-й тур</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="453" dt-at="454" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292904" class="game_link" href="/games/15292904/" title="Португалия - Уругвай">
+		<div class="status"><span class="size10">28.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Португалия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/gpjQx_16_453.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/XeXD7ur_16_454.png" /><span>Уругвай</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292904)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="452" dt-at="445" dt-ct="14071" dt-st="3439" >
+		<a dt-id="15292902" class="game_link" href="/games/15292902/" title="Бразилия - Швейцария">
+		<div class="status"><span class="size10">28.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Бразилия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/n44nFO_16_452.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/hoWJfK_16_445.png" /><span>Швейцария</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292902)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="429" dt-at="7033" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292905" class="game_link" href="/games/15292905/" title="Южная Корея - Гана">
+		<div class="status"><span class="size10">28.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Южная Корея</span><img loading="lazy" src="https://s.scr365.net/s1/logo/4M09wHd_16_429.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/9vGhW8_16_7033.png" /><span>Гана</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292905)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7115" dt-at="437" dt-ct="14069" dt-st="3437" >
+		<a dt-id="15292903" class="game_link" href="/games/15292903/" title="Камерун - Сербия">
+		<div class="status"><span class="size10">28.11.22, 02:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Камерун</span><img loading="lazy" src="https://s.scr365.net/s1/logo/YXt0gMG_16_7115.png" /></div></div>
+				<div class="gls">3</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/Iygszx_16_437.png" /><span>Сербия</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292903)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="332" dt-at="334" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292898" class="game_link" href="/games/15292898/" title="Испания - Германия">
+		<div class="status"><span class="size10">27.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Испания</span><img loading="lazy" src="https://s.scr365.net/s1/logo/JzLEsV0_16_332.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/60IodcQZ_16_334.png" /><span>Германия</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292898)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="451" dt-at="393" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292901" class="game_link" href="/games/15292901/" title="Хорватия - Канада">
+		<div class="status"><span class="size10">27.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Хорватия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/DBc1P_16_451.png" /></div></div>
+				<div class="gls">4</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/I9toxl_16_393.png" /><span>Канада</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292901)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="423" dt-at="7050" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292900" class="game_link" href="/games/15292900/" title="Бельгия - Марокко">
+		<div class="status"><span class="size10">27.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Бельгия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/CaIG9yDJD_16_423.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/UvIZSq5_16_7050.png" /><span>Марокко</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292900)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="6872" dt-at="401" dt-ct="14067" dt-st="2486" >
+		<a dt-id="15292899" class="game_link" href="/games/15292899/" title="Япония - Коста-Рика">
+		<div class="status"><span class="size10">27.11.22, 02:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Япония</span><img loading="lazy" src="https://s.scr365.net/s1/logo/ZT68vwe_16_6872.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/YtqiS_16_401.png" /><span>Коста-Рика</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292899)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="449" dt-at="441" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292894" class="game_link" href="/games/15292894/" title="Аргентина - Мексика">
+		<div class="status"><span class="size10">26.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Аргентина</span><img loading="lazy" src="https://s.scr365.net/s1/logo/SjLeK2j_16_449.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/PK8zR_16_441.png" /><span>Мексика</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292894)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="335" dt-at="450" dt-ct="14071" dt-st="3439" >
+		<a dt-id="15292896" class="game_link" href="/games/15292896/" title="Франция - Дания">
+		<div class="status"><span class="size10">26.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Франция</span><img loading="lazy" src="https://s.scr365.net/teams/2023/10/13/2ywVQjz_16_335.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/Km5gIR_16_450.png" /><span>Дания</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292896)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="394" dt-at="7025" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292895" class="game_link" href="/games/15292895/" title="Польша - Саудовская Аравия">
+		<div class="status"><span class="size10">26.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Польша</span><img loading="lazy" src="https://s.scr365.net/s1/logo/tuAxgv2Mh_16_394.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/VpqlhuRzN_16_7025.png" /><span>Саудовская Аравия</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292895)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7032" dt-at="440" dt-ct="14069" dt-st="3437" >
+		<a dt-id="15292897" class="game_link" href="/games/15292897/" title="Тунис - Австралия">
+		<div class="status"><span class="size10">26.11.22, 02:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Тунис</span><img loading="lazy" src="https://s.scr365.net/s1/logo/38KjBBys_16_7032.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/XGWS1_16_440.png" /><span>Австралия</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292897)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="331" dt-at="431" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292892" class="game_link" href="/games/15292892/" title="Англия - США">
+		<div class="status"><span class="size10">25.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Англия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/1SYN9BXb_16_331.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/lnnj94OZ_16_431.png" /><span>США</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292892)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="337" dt-at="7072" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292891" class="game_link" href="/games/15292891/" title="Нидерланды - Эквадор">
+		<div class="status"><span class="size10">25.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Нидерланды</span><img loading="lazy" src="https://s.scr365.net/s1/logo/dDlbkO_16_337.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/DL1uUsDk_16_7072.png" /><span>Эквадор</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292891)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="369" dt-at="396" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292890" class="game_link" href="/games/15292890/" title="Катар - Сенегал">
+		<div class="status"><span class="size10">25.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Катар</span><img loading="lazy" src="https://s.scr365.net/s1/logo/w2Hc6ZJ_16_369.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/ZuRsE77NA_16_396.png" /><span>Сенегал</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292890)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="420" dt-at="6880" dt-ct="14067" dt-st="2486" >
+		<a dt-id="15292893" class="game_link" href="/games/15292893/" title="Уэльс - Иран">
+		<div class="status"><span class="size10">25.11.22, 02:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Уэльс</span><img loading="lazy" src="https://s.scr365.net/s1/logo/aYgD8Y_16_420.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/nGXUev_16_6880.png" /><span>Иран</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292893)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																																																			<div class="live_comptt_bd ">
+							<div class="cmp_stg_ttl">Групповая стадия | 1-й тур</div>
+							<div class="block_body_nopadding">
+															
+<div class="game_block " dt-ht="452" dt-at="437" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292886" class="game_link" href="/games/15292886/" title="Бразилия - Сербия">
+		<div class="status"><span class="size10">24.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Бразилия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/n44nFO_16_452.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/Iygszx_16_437.png" /><span>Сербия</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292886)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="453" dt-at="7033" dt-ct="14071" dt-st="3439" >
+		<a dt-id="15292888" class="game_link" href="/games/15292888/" title="Португалия - Гана">
+		<div class="status"><span class="size10">24.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Португалия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/gpjQx_16_453.png" /></div></div>
+				<div class="gls">3</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/9vGhW8_16_7033.png" /><span>Гана</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292888)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="454" dt-at="429" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292889" class="game_link" href="/games/15292889/" title="Уругвай - Южная Корея">
+		<div class="status"><span class="size10">24.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Уругвай</span><img loading="lazy" src="https://s.scr365.net/s1/logo/XeXD7ur_16_454.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/4M09wHd_16_429.png" /><span>Южная Корея</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292889)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="445" dt-at="7115" dt-ct="14069" dt-st="3437" >
+		<a dt-id="15292887" class="game_link" href="/games/15292887/" title="Швейцария - Камерун">
+		<div class="status"><span class="size10">24.11.22, 02:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Швейцария</span><img loading="lazy" src="https://s.scr365.net/s1/logo/hoWJfK_16_445.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/YXt0gMG_16_7115.png" /><span>Камерун</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292887)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="423" dt-at="393" dt-ct="14067" dt-st="2486" >
+		<a dt-id="15292884" class="game_link" href="/games/15292884/" title="Бельгия - Канада">
+		<div class="status"><span class="size10">23.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Бельгия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/CaIG9yDJD_16_423.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/I9toxl_16_393.png" /><span>Канада</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292884)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="332" dt-at="401" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292882" class="game_link" href="/games/15292882/" title="Испания - Коста-Рика">
+		<div class="status"><span class="size10">23.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Испания</span><img loading="lazy" src="https://s.scr365.net/s1/logo/JzLEsV0_16_332.png" /></div></div>
+				<div class="gls">7</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/YtqiS_16_401.png" /><span>Коста-Рика</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292882)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="334" dt-at="6872" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292883" class="game_link" href="/games/15292883/" title="Германия - Япония">
+		<div class="status"><span class="size10">23.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Германия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/60IodcQZ_16_334.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/ZT68vwe_16_6872.png" /><span>Япония</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292883)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="7050" dt-at="451" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292885" class="game_link" href="/games/15292885/" title="Марокко - Хорватия">
+		<div class="status"><span class="size10">23.11.22, 02:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Марокко</span><img loading="lazy" src="https://s.scr365.net/s1/logo/UvIZSq5_16_7050.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/DBc1P_16_451.png" /><span>Хорватия</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292885)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="335" dt-at="440" dt-ct="14069" dt-st="3437" >
+		<a dt-id="15292880" class="game_link" href="/games/15292880/" title="Франция - Австралия">
+		<div class="status"><span class="size10">22.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Франция</span><img loading="lazy" src="https://s.scr365.net/teams/2023/10/13/2ywVQjz_16_335.png" /></div></div>
+				<div class="gls">4</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/XGWS1_16_440.png" /><span>Австралия</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292880)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="441" dt-at="394" dt-ct="14071" dt-st="3439" >
+		<a dt-id="15292879" class="game_link" href="/games/15292879/" title="Мексика - Польша">
+		<div class="status"><span class="size10">22.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Мексика</span><img loading="lazy" src="https://s.scr365.net/s1/logo/PK8zR_16_441.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/tuAxgv2Mh_16_394.png" /><span>Польша</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292879)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="450" dt-at="7032" dt-ct="6057" dt-st="3179" >
+		<a dt-id="15292881" class="game_link" href="/games/15292881/" title="Дания - Тунис">
+		<div class="status"><span class="size10">22.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Дания</span><img loading="lazy" src="https://s.scr365.net/s1/logo/Km5gIR_16_450.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/38KjBBys_16_7032.png" /><span>Тунис</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292881)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="449" dt-at="7025" dt-ct="14066" dt-st="3435" >
+		<a dt-id="15292878" class="game_link" href="/games/15292878/" title="Аргентина - Саудовская Аравия">
+		<div class="status"><span class="size10">22.11.22, 02:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Аргентина</span><img loading="lazy" src="https://s.scr365.net/s1/logo/SjLeK2j_16_449.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/VpqlhuRzN_16_7025.png" /><span>Саудовская Аравия</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292878)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="431" dt-at="420" dt-ct="14067" dt-st="2486" >
+		<a dt-id="15292877" class="game_link" href="/games/15292877/" title="США - Уэльс">
+		<div class="status"><span class="size10">21.11.22, 11:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>США</span><img loading="lazy" src="https://s.scr365.net/s1/logo/lnnj94OZ_16_431.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/aYgD8Y_16_420.png" /><span>Уэльс</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292877)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="396" dt-at="337" dt-ct="14070" dt-st="3438" >
+		<a dt-id="15292875" class="game_link" href="/games/15292875/" title="Сенегал - Нидерланды">
+		<div class="status"><span class="size10">21.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Сенегал</span><img loading="lazy" src="https://s.scr365.net/s1/logo/ZuRsE77NA_16_396.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/dDlbkO_16_337.png" /><span>Нидерланды</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292875)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="331" dt-at="6880" dt-ct="6057" dt-st="258" >
+		<a dt-id="15292876" class="game_link" href="/games/15292876/" title="Англия - Иран">
+		<div class="status"><span class="size10">21.11.22, 05:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Англия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/1SYN9BXb_16_331.png" /></div></div>
+				<div class="gls">6</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/nGXUev_16_6880.png" /><span>Иран</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292876)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>															
+<div class="game_block " dt-ht="369" dt-at="7072" dt-ct="14068" dt-st="3436" >
+		<a dt-id="15292858" class="game_link" href="/games/15292858/" title="Катар - Эквадор">
+		<div class="status"><span class="size10">20.11.22, 08:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Катар</span><img loading="lazy" src="https://s.scr365.net/s1/logo/w2Hc6ZJ_16_369.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/DL1uUsDk_16_7072.png" /><span>Эквадор</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(15292858)">&nbsp;</span></div>
+		</div>
+					</a>
+</div>													</div></div>
+																					</div>
+	<script>
+		function filtersData(type,value) {
+			if(value==0){
+				$('.game_block').show();
+			}else{
+				$('.game_block').hide();
+			}
+			switch(type) {
+		    	case 'stadium':
+		    		doSelectBox('clubs','#box_clubs .selectbox-menu a:eq(0)');
+		    		doSelectBox('cities','#box_cities .selectbox-menu a:eq(0)');
+		    		$('div[dt-st=\''+value+'\']').show();
+		    		break;
+		    	case 'club':
+		    		doSelectBox('cities','#box_cities .selectbox-menu a:eq(0)');
+		    		doSelectBox('stadiums','#box_stadiums .selectbox-menu a:eq(0)');
+		    		$('div[dt-ht=\''+value+'\']').show();
+		    		$('div[dt-at=\''+value+'\']').show();
+			    	break;
+		    	case 'city':
+		    		doSelectBox('clubs','#box_clubs .selectbox-menu a:eq(0)');
+		    		doSelectBox('stadiums','#box_stadiums .selectbox-menu a:eq(0)');
+		    		$('div[dt-ct=\''+value+'\']').show();
+		    		break;
+		    }
+			// Скрываем блоки стадий
+			$('.live_comptt_bd').show();
+			$('.live_comptt_bd').each(function(i,elem) {
+				if($(elem).children('.block_body_nopadding').children('.game_block:visible').length == 0) $(elem).hide();
+			});
+		}
+		function doSelectBox(type,elem) {
+			$('#box_'+type+' .selectbox-label').html($(elem).html());
+			$('#box_'+type+' .selectbox-menu .selectbox-selected').toggleClass('selectbox-selected');
+			$(elem).toggleClass('selectbox-selected');
+		}
+		if ($('.game_block.hide').length) {
+			$('#switch-shedule').show();
+			$('#switch-shedule input').on('change', function() {
+				if ($(this).is(':checked')){
+					$('.hide').addClass('show');
+				} else {
+					$('.hide').removeClass('show');
+				}
+			});
+			$('.selectbox-menu a').click(function(){
+				$('.hide').removeClass('show');
+				$('#switch-shedule input').removeAttr('checked');
+			});
+		}
+	</script>
+</div>
+
+<div class="page_main_bk_right">
+	<div>
+				<div class="adv plc12"><div id='zone_1850438345' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1850438345';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1850438345,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_12">$(document).ready(function(){adView(12,'300x250 - первый (десктоп)','Агенство - 300x250',true);});</script></div>		<div class="mrgt20"></div>
+		
+		
+		
+		<div class="block_header"><a class="white" href="/news/">Новости</a></div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_354_2/JLcmbnOZ3L8Y4.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16633/">История чемпионатов мира. 2022 год</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">21.12.2022, 03:39 </span>
+					<a class="gray" href="/news/16633/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">13</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_352_15/UoZyWTi8a5BM.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16628/">Главный матч ЧМ-2022: аргентинская мечта Лионеля Месси воплотилась в жизнь</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">19.12.2022, 08:20 </span>
+					<a class="gray" href="/news/16628/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">13</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_350_19/3URpPD1UuxON.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16627/">Аргентина ― Франция: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">17.12.2022, 09:10 </span>
+					<a class="gray" href="/news/16627/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">37</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_349_20/uB80F12nL65EN.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16626/">Хорватия ― Марокко: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">16.12.2022, 10:02 </span>
+					<a class="gray" href="/news/16626/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">36</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_346_9/1TkWdv7jwau2Thb.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16622/">Франция ― Марокко: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">13.12.2022, 10:00 </span>
+					<a class="gray" href="/news/16622/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">16</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_346_0/Z6sPd19rMUmP.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16621/">Аргентина ― Хорватия: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">12.12.2022, 14:00 </span>
+					<a class="gray" href="/news/16621/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">24</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_342_19/TQ3BhrBBQC.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16619/">Англия ― Франция: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">09.12.2022, 09:42 </span>
+					<a class="gray" href="/news/16619/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">20</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_342_17/MSlMPt82fj.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/16618/">Марокко ― Португалия: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">09.12.2022, 07:58 </span>
+					<a class="gray" href="/news/16618/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">9</span></a>
+			</div>
+</div>
+<div class="mrgt20"></div>
+
+				<div class="adv plc16"><div id='zone_1926685446' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1926685446';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1926685446,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_16">$(document).ready(function(){adView(16,'300x250 - второй (десктоп)','Агенство - 300х250 - второй',true);});</script></div>		<div class="mrgt20"></div>
+		
+		<div class="block_header"><a class="white" href="/articles/">Статьи</a></div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_265_3/cUnqWyWbx4aUpV.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/8592/">История чемпионатов мира. 1938 год</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">13.11.2022, 00:53 </span>
+					<a class="gray" href="/news/8592/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">4</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_36_23/oUQthQr92AoyqU.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/15518/">Наследник Пеле, которого убивали травмы. Роналдо был Феноменом, а мог стать волшебником</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">07.02.2022, 01:00 </span>
+					<a class="gray" href="/news/15518/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">18</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_162_13/ahPmAnuIgeouBJ.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/15984/">Фабио Капелло или Дон Фабио – тренер-прагматик, ставший настоящим триумфатором своего времени</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">25.06.2022, 05:13 </span>
+					<a class="gray" href="/news/15984/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">5</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/23_360_22/B5NeER2VfaU5jtK.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/18471/">Эйзель-1985. День, когда праздник превратился в трагедию</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">14.01.2024, 07:10 </span>
+					<a class="gray" href="/news/18471/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">15</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/21_329_18/P3v4ib726BsX.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/15261/">Радость и боль Роберто Баджо. Противоречивая карьера "Божественного хвостика"</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">26.11.2021, 07:27 </span>
+					<a class="gray" href="/news/15261/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">8</span></a>
+			</div>
+</div>
+<div class="mrgt20"></div>
+	</div>
+</div>
+	<div class="footer">
+		<div class="adv plc6"><div id='zone_1980103296' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1980103296';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1980103296,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_6">$(document).ready(function(){adView(6,'Футер (десктоп)','Агенство - 980х90 - футер',true);});</script></div>		<div class="footer_bottom">
+			© 2024 Soccer365.ru | 18+
+						<a href="/about/">О сайте</a>
+			<a href="/page/jobs/">Вакансии</a>
+			<a href="/rules/">Правила сайта</a>
+			<a href="/widgets/">Виджеты</a>
+						<a href="javascript:void(0);" onClick="modal_remote('/?c=support&a=start')"><div class="img16"><img loading="lazy" class="lkbug" src="https://s.scr365.net/img/icon-support-16.png" /><span>Служба поддержки</span></div></a>
+			<a href="javascript:void(0);" onClick="modal_remote('/?c=feedback&a=bug_user')"><div class="img16"><img loading="lazy" class="lkbug" src="https://s.scr365.net/img/icon-bug-16.png" /><span>Нашли ошибку?</span></div></a>
+			<a class="icon16 icon_dayn" href="javascript:void(0)" title="Темная тема" onclick="tNightSwitch(this);"><img loading="lazy" src="https://s.scr365.net/img/daynight.svg" /></a>
+			<a class="icon16 icon_mobi" href="javascript:void(0)" onclick="versionSwitch(1);" title="Мобильная версия"><img loading="lazy" src="https://s.scr365.net/img/mobile.svg" /></a>
+			<div class="lang">
+							<a class="icon16 cl en" title="English" href="https://soccer365.me/competitions/742/results/"/><img loading="lazy" src="https://s.scr365.net/img/ln_en.svg" /></a>
+						</div>
+			<div class="subscr">
+		<a title="Vkontakte" target="_blank" href="https://vk.com/soccer365ru"><img loading="lazy" src="https://s.scr365.net/img/socials/vk_64.png" /></a>
+		<a title="Twitter" target="_blank" href="https://twitter.com/soccer365ru"><img loading="lazy" src="https://s.scr365.net/img/socials/tw_64.png" /></a>
+		<a title="Telegram" target="_blank" href="https://tgclick.com/soccer365soccer"><img loading="lazy" src="https://s.scr365.net/img/socials/tg_64.png" /></a>
+		<a title="Instagram" target="_blank" href="https://www.instagram.com/soccer365_ru/"><img loading="lazy" src="https://s.scr365.net/img/socials/in_64.png" /></a>
+		<a title="RSS" target="_blank" href="https://s.scr365.net/s1/news.xml"><img loading="lazy" src="https://s.scr365.net/img/socials/rss_64.png" /></a>
+	</div>		</div>
+	</div>
+</div>
+
+<div id='zone_1508776038'></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1508776038';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1508776038,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_11">$(document).ready(function(){adView(11,'Брендинг (десктоп)','Агенство - брендинг',false);});</script>
+<div id="scrollTop"><div id="scrollTopButton"></div></div>
+
+<div id="loading"><img src="https://s.scr365.net/img/loading.svg" border="0"/></div>
+<div class="md_close" onClick="modalClose(0);GAEvent('Разное',{'event_category':'Модальное окно','event_action':'Закрыть'});"></div>
+<div id="modalC"><div id="modal" class="modal"><div id="modal_content"></div></div></div>
+
+<link href="https://s.scr365.net/js/tooltipster/tooltipster.bundle.min.css?v=1638340077" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="https://s.scr365.net/lang/ru.js?v=1709116137"></script>
+<script  type="text/javascript" src="https://s.scr365.net/js/sockjs.min.js?v=3"></script><script defer type="text/javascript" src="https://s.scr365.net/js/jquery.validate.min.js?v=1"></script><script defer type="text/javascript" src="https://s.scr365.net/js/jquery.autocomplete.min.js?v=1"></script><script  type="text/javascript" src="https://s.scr365.net/js/tooltipster/tooltipster.bundle.min.js?v=1638340077"></script>
+
+<div id="ad1" class="page_ad pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width:1px!important;height:1px!important;position:absolute!important;left:-10000px!important;top:-1000px!important;"></div>
+<script type="text/javascript">
+	$(document).ready(function($) {
+		tipp_opt_games();
+	});
+</script>
+
+</body>
+</html><!--0.0164-->

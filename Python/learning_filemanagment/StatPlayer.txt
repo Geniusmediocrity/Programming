@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+	<script>!function(){var e=0,i=screen.width,t=parseInt(document.cookie.replace(/(?:(?:^|.*;\s*)device_type\s*\=\s*([^;]*).*$)|^.*$/,"$1"));if(!t)return!1;screen.height<i&&(i=screen.height),(e=i<500?2:screen.width>=1280?1:3)!=t&&(document.cookie="device_type="+e+";path=/;expires="+new Date(+new Date+12096e5).toGMTString(),document.location.reload())}();</script><title>kozhakin - профиль - Soccer365</title>
+<meta name="google-site-verification" content="K0lEj2x_yZA4OVhSQ_fx3ncagtAmLz8-Kv_6fHw1euU" />
+<meta name="yandex-verification" content="6b15c9ae19fe4d4e" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noindex,follow" /><link rel="alternate" hreflang="ru" href="https://soccer365.ru/profile/279768/"/><link rel="alternate" hreflang="en" href="https://soccer365.me/profile/279768/"/><link rel="dns-prefetch" href="https://s.scr365.net/">
+<link rel="dns-prefetch" href="//www.google-analytics.com/">
+<link rel="icon" type="image/png" sizes="16x16" href="https://s.scr365.net/img/favicon16x16.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://s.scr365.net/img/favicon96x96.png" />
+<link rel="apple-touch-icon" href="https://s.scr365.net/img/favicon96x96.png" />
+<link rel="alternate" type="application/rss+xml" title="Лента новостей" href="https://s.scr365.net/s1/news.xml" />
+	<link href="https://s.scr365.net/css/desktop.min.css?v=1709889476" rel="stylesheet" type="text/css"/>	<script  type="text/javascript" src="https://s.scr365.net/js/jquery.min.js?v=1"></script><script  type="text/javascript" src="https://s.scr365.net/js/main.min.js?v=1710224050"></script><script type="text/javascript">
+	var sys_url = 'https://soccer365.ru/';
+	var sys_node = 'https://n.scr365.net';
+	var sys_static = 'https://s.scr365.net/';
+	var sys_language = 'ru';
+	var sys_is_mobile = 0;
+	var sys_country = 'US';
+	var checkNewWindow = false;
+	var is_search_bot = true;
+	var sys_page_id = 0;
+		</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ2WWHERLS"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-YQ2WWHERLS');
+</script></head>
+<body>
+<div id="main_container">
+	<div class="header_top">
+
+		<div class="adv plc7"><div id='zone_1526694879' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1526694879';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1526694879,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_7">$(document).ready(function(){adView(7,'Хидер (десктоп)','Агенство - 980х90 - хидер',true);});</script></div>
+		<div class="header_top_logo">
+			<a class="logo" href="/"><div>RU</div></a>			<div class="header_live">
+				<div id="button" class="butn_chat" onClick="window.open('https://soccer365.ru/chat/room/14024052/','Чат','width=340,height=550,scrollbars=yes');">Чат</div>				<div id="button" onClick="modal_remote('/?c=live&a=games_data&competition_id=0&dt=&fr=1&noads=1');GAEvent('Разное',{'event_category':'Сквозные','event_action':'Игры онлайн'});">Live</div>
+			</div>
+						<div class="header_news">
+								<a class="news_item" href="/news/19157/" onClick="GAEvent('Разное',{'event_category':'Новости - сквозной блок','event_action':'клик'});"><img loading="lazy" align="left" src="https://s.scr365.net/s1/photo/24_73_15/rjL6Q5yCiJvo7o1.jpg" />&nbsp;&nbsp;Жеребьёвка 1/4 финала ЛЧ: Манчестер Сити, Бавария, Барселона и Реал Мадрид узнают своих соперников</a>
+							</div>
+					</div>
+	</div>
+	<div class="header_menu">
+		<div class="hds_item">
+			<a class="home" title="Главная" data-lang="Главная" href="/"></a>
+		</div>
+				<div class="hds_item">
+			<a id="hds_item_link" href="/news/">Новости</a>
+			<div class="hds_submenu">
+				<a href="/articles/">Статьи</a>
+				<a href="/bettingtips/">Прогнозы</a>
+				<a href="/press/">Обзор прессы</a>
+			</div>
+		</div>
+				<div class="hds_item"><a id="hds_item_link" href="/online/">Матчи</a></div>
+		<div class="hds_item"><a id="hds_item_link" href="/competitions/">Соревнования</a>
+			<div class="hds_submenu comps">
+								<div class="col">
+										<a href="/competitions/742/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_33_11/46atU_16_742.png" /><span>Чемпионат мира</span></div></a>
+										<a href="/competitions/24/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_282_9/A7dqy_16_24.png" /><span>Чемпионат Европы</span></div></a>
+										<a href="/competitions/19/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_69_9/to3rP5Z_16_19.svg" /><span>Лига Чемпионов</span></div></a>
+										<a href="/competitions/20/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_206_13/f7CxHuG_16_20.png" /><span>Лига Европы</span></div></a>
+										<a href="/competitions/618/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_74_19/hYJ5wN_16_618.png" /><span>Кубок Америки</span></div></a>
+										<a href="/competitions/1658/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/18_248_6/9SdNc7fY_16_1658.png" /><span>Лига наций УЕФА</span></div></a>
+										<a href="/competitions/739/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_83_10/M3sbweUG7_16_739.png" /><span>Чемпионат мира (отборочный турнир, Европа)</span></div></a>
+										<a href="/competitions/746/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_261_12/e1NFg8fvN_16_746.png" /><span>Чемпионат Европы U21</span></div></a>
+										<a href="/competitions/1016/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_82_13/7B4bPBlT_16_1016.svg" /><span>Олимпийские игры</span></div></a>
+										<a href="/competitions/938/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_285_12/jWqEu_16_938.png" /><span>Чемпионат Европы U19</span></div></a>
+										<div class="mrgt20"></div>
+					<a href="/competitions/">Все соревнования</a>
+				</div>
+				<div class="col exp">
+																							<div class="group">												<a href="/competitions/12/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Премьер-Лига</span></div></a>
+												<a href="/competitions/23/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Кубок Англии</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/16/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Spain.png" /><span>Примера</span></div></a>
+												<a href="/competitions/758/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Spain.png" /><span>Кубок Испании</span></div></a>
+											</div>					<div class="cl_both"></div>																			<div class="group">												<a href="/competitions/15/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Italy.png" /><span>Серия А</span></div></a>
+												<a href="/competitions/627/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Italy.png" /><span>Серия B</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/13/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Russian Federation.png" /><span>Премьер-Лига</span></div></a>
+												<a href="/competitions/687/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Russian Federation.png" /><span>Первая лига</span></div></a>
+											</div>					<div class="cl_both"></div>																			<div class="group">												<a href="/competitions/17/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Germany.png" /><span>Бундеслига</span></div></a>
+												<a href="/competitions/813/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Germany.png" /><span>Кубок Германии</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/18/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Лига 1</span></div></a>
+												<a href="/competitions/581/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Лига 2</span></div></a>
+											</div>					<div class="cl_both"></div>																			<div class="group">												<a href="/competitions/14/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Ukraine.png" /><span>Премьер-Лига</span></div></a>
+																																															<a href="/competitions/723/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Turkey.png" /><span>Суперлига</span></div></a>
+											</div>																								<div class="group">												<a href="/competitions/436/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/United States of America.png" /><span>МЛС</span></div></a>
+																																															<a href="/competitions/596/"><div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Netherlands.png" /><span>Эредивизи</span></div></a>
+											</div>																		</div>
+							</div>
+		</div>
+		<div class="hds_item"><a id="hds_item_link" href="/video/">Видео</a></div>
+				<div class="hds_item">
+			<a id="hds_item_link" href="/talk/">Общение</a>
+			<div class="hds_submenu">
+				<a href="/talk/">Форум</a>
+				<a href="/users/">Пользователи</a>
+				<a href="/users/ban/">Баны</a>
+				<a href="/page/reformal/">Отзывы и предложения</a>
+			</div>
+		</div>
+		<div class="hds_item">
+			<a id="hds_item_link" href="javascript:void(null)">Разное</a>
+			<div class="hds_submenu">
+				<a href="/tv/">Телепрограмма</a>
+				<a href="/transfers/">Трансферы</a>
+				<a href="/ranking/fifa/">Рейтинг ФИФА</a>
+				<a href="/ranking/uefa/">Рейтинг УЕФА</a>
+				<a href="/awards/">Награды</a>
+				<a href="/players/birthday/">Дни рождения</a>
+				<a href="/betting/rating/">Рейтинг БК</a>
+			</div>
+		</div>
+				<div class="hds_item prognos"><a id="hds_item_link" href="/predictions/"><span class="flag16" style="background-image:url('https://s.scr365.net/img/cup.svg')">Конкурс прогнозов</span></a></div>				<div class="hds_item auth" onClick="modal_remote('/?c=accounts&a=auth')">
+			<span class="iconhmenu" style="background-image:url('https://s.scr365.net/img/icon-enter-16-white.png');">Войти</span>
+		</div>
+				<div class="hds_tmzone has-tip" data-tooltipster='{"side":"left"}' onClick="modal_remote('timezones.php')" title="Выберите ваш часовой пояс">
+			<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/time.svg" /><span id="hds_time_site" class="iconhmenu">05:01 15.03</span></div>
+		</div>
+		<div class="hds_search">
+			<form action="https://soccer365.ru/" method="get" onsubmit="return $('.search_text').val()!='';" autocomplete="off">
+				<div class="search_form" onMouseOver="$('.search_text').focus();" onMouseOut="$('.search_text').blur()">
+					<input name="a" type="hidden" value="search"/>
+					<input class="search_text" name="q" type="text" value="" placeholder="поиск"/>
+					<input class="search_button" type="submit" value="&nbsp;"/>
+				</div>
+			</form>
+		</div>
+		<div class="cl_both"></div>
+	</div>
+	<div class="mrgt20"></div><div class="tabs_items">
+	<span class="tabs_item active"><a rel="nofollow" href="/profile/279768/">Профиль</a></span>
+		<span class="tabs_item"><a rel="nofollow" href="/profile/279768/&tab=predict_stats">Статистика прогнозов</a></span>			</div>
+
+<div class="page_main_content">
+
+		<div class="block_body">
+		<div class="profile_foto">
+			<img loading="lazy" width="100" src="https://s.scr365.net/s1/users/279/5zvc.jpg?dlM">
+		</div>
+		<div class="profile_info new">
+			<h1 class="profile_info_title red inline">kozhakin</h1>
+						<table class="profile_params"><tbody>
+				<tr><td class="params_key">Регистрация</td><td>30 апреля 2021</td></tr>
+				<tr><td class="params_key">Возраст</td><td>36 лет</td></tr>				<tr><td class="params_key">Пол</td><td>Мужской</td></tr>				<tr><td class="params_key">Карма</td><td><b style="color:black;">0</b><span class="profile_info_desc" onclick="modal_remote('/?c=rules&a=modal&prs=s9');">&nbsp;</span></td></tr>
+																<tr><td class="params_key">Комментарии</td><td>1</td></tr>															</tbody></table>
+		</div>
+	</div>
+
+		<div class="mrgt20"></div>
+	<div class="block_header">Конкурс прогнозов</div>
+	<div class="block_body">
+		<script type="text/javascript" src="https://s.scr365.net/js/amcharts/amcharts.js"></script>
+		<script type="text/javascript" src="https://s.scr365.net/js/amcharts/serial.js"></script>
+		<div id="chart_predictions" style="height:200px"></div>
+		<script type="text/javascript">
+			var chart = AmCharts.makeChart("chart_predictions", {
+				"type": "serial",
+				"theme": "none",
+				"fontFamily": "tahoma",
+				"fontSize": "10",
+				"color": "gray",
+				"valueAxes": [{
+					"axisAlpha": 0,
+					"gridAlpha": 0,
+					"labelsEnabled": true,
+					"reversed": true,
+					"labelFunction": formatValue
+				}],
+				"dataProvider": [{"id":"5","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2014","descr":"","start":"2014-01-01","end":"2014-01-31","competitions":"19,20,12,15,16,13,14,17","games":"","awards":"[{\"user\":\"69\",\"place\":1,\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2014)\"},{\"user\":\"193\",\"place\":2,\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2014)\"},{\"user\":\"123\",\"place\":3,\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2014)\"}]","settings":""},{"id":"4","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2014","descr":"","start":"2014-02-01","end":"2014-02-28","competitions":"19,20,12,15,16,13,14,17","games":"","awards":"[{\"user\":\"319\",\"place\":1,\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2014)\"},{\"user\":\"352\",\"place\":2,\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2014)\"},{\"user\":\"123\",\"place\":3,\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2014)\"}]","settings":""},{"id":"3","title":"\u041c\u0430\u0440\u0442 2014","descr":"","start":"2014-03-01","end":"2014-03-31","competitions":"19,20,12,15,16,13,14,17","games":"","awards":"[{\"user\":\"288\",\"place\":1,\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2014)\"},{\"user\":\"1312\",\"place\":2,\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2014)\"},{\"user\":\"1229\",\"place\":3,\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2014)\"}]","settings":""},{"id":"2","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2014","descr":"","start":"2014-04-01","end":"2014-04-30","competitions":"19,20,12,15,16,13,14,17","games":"","awards":"[{\"user\":\"1821\",\"place\":1,\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2014)\"},{\"user\":\"309\",\"place\":2,\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2014)\"},{\"user\":\"325\",\"place\":3,\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2014)\"}]","settings":""},{"id":"7","title":"\u041c\u0430\u0439 2014","descr":"","start":"2014-05-01","end":"2014-05-31","competitions":"19,20,12,15,16,13,14,17,18","games":"","awards":"[{\"user\":\"2895\",\"place\":1,\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2014)\"},{\"user\":\"1737\",\"place\":2,\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2014)\"},{\"user\":\"776\",\"place\":3,\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2014)\"}]","settings":""},{"id":"8","title":"\u0427\u041c 2014","descr":"","start":"2014-06-01","end":"2014-07-13","competitions":"742","games":"","awards":"[{\"user\":\"3184\",\"place\":1,\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0427\u041c 2014)\"},{\"user\":\"3654\",\"place\":2,\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0427\u041c 2014)\"},{\"user\":\"309\",\"place\":3,\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0427\u041c 2014)\"}]","settings":""},{"id":"9","title":"\u041b\u0435\u0442\u043e 2014","descr":"","start":"2014-07-14","end":"2014-08-31","competitions":"19,20,12,15,16,13,14,17,18","games":"","awards":"[{\"user\":\"2065\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2014)\"},{\"user\":\"3470\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2014)\"},{\"user\":\"3592\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2014)\"}]","settings":""},{"id":"10","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2014","descr":"","start":"2014-09-01","end":"2014-09-30","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"1370\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2014)\"},{\"user\":\"3471\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2014)\"},{\"user\":\"2635\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2014)\"}]","settings":""},{"id":"11","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2014","descr":"","start":"2014-10-01","end":"2014-10-31","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"2895\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2014)\"},{\"user\":\"3672\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2014)\"},{\"user\":\"4068\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2014)\"}]","settings":""},{"id":"12","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2014","descr":"","start":"2014-11-01","end":"2014-11-30","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"1033\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2014)\"},{\"user\":\"3647\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2014)\"},{\"user\":\"140\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2014)\"}]","settings":""},{"id":"13","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2014","descr":"","start":"2014-12-01","end":"2014-12-31","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"3961\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2014)\"},{\"user\":\"3083\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2014)\"},{\"user\":\"1370\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2014)\"}]","settings":""},{"id":"14","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2015","descr":"","start":"2015-01-01","end":"2015-01-31","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"5130\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2015)\"},{\"user\":\"1317\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2015)\"},{\"user\":\"285\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2014)\"},{\"user\":\"1371\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2014)\"}]","settings":""},{"id":"15","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2015","descr":"","start":"2015-02-01","end":"2015-02-28","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"5793\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2015)\"},{\"user\":\"291\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2015)\"},{\"user\":\"4047\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2015)\"}]","settings":""},{"id":"16","title":"\u041c\u0430\u0440\u0442 2015","descr":"","start":"2015-03-01","end":"2015-03-31","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"1511\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2015)\"},{\"user\":\"14083\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2015)\"},{\"user\":\"4228\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2015)\"}]","settings":""},{"id":"17","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2015","descr":"","start":"2015-04-01","end":"2015-04-30","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"522\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2015)\"},{\"user\":\"6375\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2015)\"},{\"user\":\"1370\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2015)\"}]","settings":""},{"id":"18","title":"\u041c\u0430\u0439 2015","descr":"","start":"2015-05-01","end":"2015-05-31","competitions":"19,20,12,15,16,13,14,17,18,24","games":"","awards":"[{\"user\":\"5538\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2015)\"},{\"user\":\"5762\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2015)\"},{\"user\":\"1382\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2015)\"}]","settings":""},{"id":"19","title":"\u041b\u0435\u0442\u043e 2015. \u0427\u0430\u0441\u0442\u044c 1","descr":"","start":"2015-06-01","end":"2015-07-14","competitions":"19,20,24,419,436,774,779,778,764,618,967,974","games":"","awards":"[{\"user\":\"4068\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2015. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"3672\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2015. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"2130\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2015. \u0447\u0430\u0441\u0442\u044c 1)\"}]","settings":""},{"id":"20","title":"\u041b\u0435\u0442\u043e 2015. \u041d\u043e\u0432\u044b\u0439 \u0441\u0435\u0437\u043e\u043d","descr":"","start":"2015-07-15","end":"2015-08-31","competitions":"19,20,12,15,16,13,14,17,18,596,681,903","games":"","awards":"[{\"user\":\"19123\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2015. \u043d\u043e\u0432\u044b\u0439 \u0441\u0435\u0437\u043e\u043d)\"},{\"user\":\"28574\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2015. \u043d\u043e\u0432\u044b\u0439 \u0441\u0435\u0437\u043e\u043d)\"},{\"user\":\"27630\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2015. \u043d\u043e\u0432\u044b\u0439 \u0441\u0435\u0437\u043e\u043d)\"}]","settings":""},{"id":"21","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2015","descr":"","start":"2015-09-01","end":"2015-09-30","competitions":"19,20,12,15,16,13,14,17,18,24,596,681","games":"","awards":"[{\"user\":\"15597\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2015)\"},{\"user\":\"28198\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2015)\"},{\"user\":\"2950\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2015)\"}]","settings":""},{"id":"22","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2015","descr":"","start":"2015-10-01","end":"2015-10-31","competitions":"19,20,12,15,16,13,14,17,18,24,596,681","games":"","awards":"[{\"user\":\"31992\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2015)\"},{\"user\":\"32308\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2015)\"},{\"user\":\"30657\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2015)\"}]","settings":""},{"id":"23","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2015","descr":"","start":"2015-11-01","end":"2015-11-30","competitions":"19,20,12,15,16,13,14,17,18,24,596,681","games":"","awards":"[{\"user\":\"15597\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2015)\"},{\"user\":\"22485\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2015)\"},{\"user\":\"325\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2015)\"}]","settings":""},{"id":"24","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2015","descr":"","start":"2015-12-01","end":"2015-12-31","competitions":"19,20,12,15,16,13,14,17,18,596,681,824","games":"","awards":"[{\"user\":\"1370\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2015)\"},{\"user\":\"28088\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2015)\"},{\"user\":\"2950\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2015)\"}]","settings":""},{"id":"25","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2016","descr":"","start":"2016-01-01","end":"2016-01-31","competitions":"12,15,16,17,18,596,681,21,821,783,766,821","games":"","awards":"[{\"user\":\"28689\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2016)\"},{\"user\":\"18188\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2016)\"},{\"user\":\"6152\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2016)\"}]","settings":""},{"id":"26","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2016","descr":"","start":"2016-02-01","end":"2016-02-29","competitions":"12,15,16,17,18,19,20,596,681,21,821,783,766,821,758,813","games":"","awards":"[{\"user\":\"18370\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2016)\"},{\"user\":\"19123\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2016)\"},{\"user\":\"22485\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2016)\"}]","settings":""},{"id":"27","title":"\u041c\u0430\u0440\u0442 2016","descr":"","start":"2016-03-01","end":"2016-03-31","competitions":"12,15,16,17,18,19,20,596,681,21,821,783,766,821,758,813,13,14,741","games":"590296,602415,588549,588548,588550,583819,598875,583821,589737,583820,588196,585503,589738,583822,583823,588025,603189,583824,583827,587135,583831,597533,588027,583829,583834","awards":"[{\"user\":\"45171\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2016)\"},{\"user\":\"34528\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2016)\"},{\"user\":\"38065\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2016)\"}]","settings":""},{"id":"28","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2016","descr":"","start":"2016-04-01","end":"2016-04-30","competitions":"12,15,16,17,18,19,20,596,681,821,783,813,13,14,805,786","games":"","awards":"[{\"user\":\"49647\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2016)\"},{\"user\":\"4047\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2016)\"},{\"user\":\"15597\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2016)\"}]","settings":""},{"id":"29","title":"\u041c\u0430\u0439 2016","descr":"","start":"2016-05-01","end":"2016-05-31","competitions":"12,15,16,17,18,19,20,596,681,821,813,13,14,805,786,778,23","games":"617184,618901,618902","awards":"[{\"user\":\"291\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2016)\"},{\"user\":\"37670\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2016)\"},{\"user\":\"8137\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2016)\"}]","settings":""},{"id":"30","title":"\u041b\u0435\u0442\u043e 2016. \u0427\u0430\u0441\u0442\u044c 1","descr":"","start":"2016-06-01","end":"2016-07-15","competitions":"24,618,19,20,419,436","games":"","awards":"[{\"user\":\"18371\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2016. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"3515\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2016. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"46647\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2016. \u0447\u0430\u0441\u0442\u044c 1)\"}]","settings":""},{"id":"31","title":"\u041b\u0435\u0442\u043e 2016. \u0427\u0430\u0441\u0442\u044c 2","descr":"","start":"2016-07-16","end":"2016-08-31","competitions":"19,20,12,15,16,13,17,18,419,436,596,681,967,974,565,902","games":"634790,618171,619477,619476","awards":"[{\"user\":\"3672\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2016. \u0447\u0430\u0441\u0442\u044c 2)\"},{\"user\":\"27630\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2016. \u0447\u0430\u0441\u0442\u044c 2)\"},{\"user\":\"21276\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2016. \u0447\u0430\u0441\u0442\u044c 2)\"}]","settings":""},{"id":"32","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2016","descr":"","start":"2016-09-01","end":"2016-09-30","competitions":"19,20,739,13,16,12,565,17,15,18,596,681","games":"634814,646147,647043","awards":"[{\"user\":\"10689\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2016)\"},{\"user\":\"2895\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2016)\"},{\"user\":\"45777\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2016)\"}]","settings":""},{"id":"33","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2016","descr":"","start":"2016-10-01","end":"2016-10-31","competitions":"19,20,739,13,16,12,565,17,15,18,596,681","games":"634835","awards":"[{\"user\":\"28574\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2016)\"},{\"user\":\"14083\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2016)\"},{\"user\":\"4438\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2016)\"}]","settings":""},{"id":"34","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2016","descr":"<a target=\"_blank\" rel=\"nofollow\" href=\"http:\/\/betfaq.ru\/p\/11798\/\"><img width=\"170\" src=\"http:\/\/st1.soccer365.ru\/a\/betfaq\/logo.png\" border=0><\/img><\/a><br>\u0421\u043f\u043e\u043d\u0441\u043e\u0440 \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0430 <b>\u0441\u0435\u0440\u0432\u0438\u0441 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u043e\u0432<\/b> \u043d\u0430 \u0441\u043f\u043e\u0440\u0442 <a target=\"_blank\" href=\"http:\/\/betfaq.ru\/p\/11855\/\">Betfaq.ru<\/a> \u0443\u0434\u0432\u0430\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u0437\u043e\u0432\u043e\u0439 \u0444\u043e\u043d\u0434 \u043d\u043e\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0433\u043e \u044d\u0442\u0430\u043f\u0430 - \u043f\u0435\u0440\u0432\u044b\u0435 3 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0435 \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u043f\u043e <b>300$<\/b>, <b>200$<\/b> \u0438 <b>100$<\/b> \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u0430 \u043b\u0443\u0447\u0448\u0438\u0439 \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u0438\u0441\u0442 \u043c\u0435\u0441\u044f\u0446\u0430 \u043f\u043e\u043b\u0443\u0447\u0438\u0442 <b>\u043e\u043f\u043b\u0430\u0447\u0438\u0432\u0430\u0435\u043c\u043e\u0435 \u043c\u0435\u0441\u0442\u043e<\/b> \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b Betfaq!","start":"2016-11-01","end":"2016-11-30","competitions":"19,20,739,13,16,12,565,17,15,18,596,681","games":"714019,714020,714021,714022","awards":"[{\"user\":\"64353\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2016)\"},{\"user\":\"39354\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2016)\"},{\"user\":\"33337\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2016)\"}]","settings":""},{"id":"35","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2016","descr":"","start":"2016-12-01","end":"2016-12-31","competitions":"19,20,13,16,12,565,17,15,18,596,681","games":"634881,719169,718180,720585,721941,666390,646242,628857","awards":"[{\"user\":\"62255\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2016)\"},{\"user\":\"60894\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2016)\"},{\"user\":\"1821\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2016)\"}]","settings":""},{"id":"36","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2017","descr":"","start":"2017-01-01","end":"2017-01-31","competitions":"16,12,565,17,15,18,596,681,21,758,821,783,744","games":"","awards":"[{\"user\":\"3440\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2017)\"},{\"user\":\"80924\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2017)\"},{\"user\":\"67755\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2017)\"}]","settings":""},{"id":"37","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2017","descr":"","start":"2017-02-01","end":"2017-02-28","competitions":"12,15,16,17,18,19,20,596,681,21,821,783,766,821,758,813,784,565,786","games":"","awards":"[{\"user\":\"3686\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2017)\"},{\"user\":\"71189\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2017)\"},{\"user\":\"60894\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2017)\"}]","settings":""},{"id":"38","title":"\u041c\u0430\u0440\u0442 2017","descr":"","start":"2017-03-01","end":"2017-03-31","competitions":"12,15,16,17,18,19,20,596,681,821,766,821,758,813,13,741,739,565,784,23,786","games":"","awards":"[{\"user\":\"29644\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2017)\"},{\"user\":\"2895\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2017)\"},{\"user\":\"57545\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2017)\"}]","settings":""},{"id":"39","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2017","descr":"","start":"2017-04-01","end":"2017-04-30","competitions":"12,15,16,17,18,19,20,596,681,821,766,821,813,13,565,784,23,786,783,805","games":"647248,747554,749240","awards":"[{\"user\":\"44687\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2017)\"},{\"user\":\"88124\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2017)\"},{\"user\":\"3515\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2017)\"}]","settings":""},{"id":"40","title":"\u041c\u0430\u0439 2017","descr":"","start":"2017-05-01","end":"2017-05-31","competitions":"12,15,16,17,18,19,20,596,681,766,821,813,13,565,23,786,805,758","games":"","awards":"[{\"user\":\"29738\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2017)\"},{\"user\":\"67854\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2017)\"},{\"user\":\"84913\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2017)\"}]","settings":""},{"id":"41","title":"\u041b\u0435\u0442\u043e 2017. \u0427\u0430\u0441\u0442\u044c 1","descr":"","start":"2017-06-01","end":"2017-07-15","competitions":"19,20,419,436,617,739,737,738,746,13,967,974","games":"","awards":"[{\"user\":\"62255\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2017. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"4068\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2017. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"28198\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2017. \u0447\u0430\u0441\u0442\u044c 1)\"}]","settings":""},{"id":"42","title":"\u041b\u0435\u0442\u043e 2017. \u0427\u0430\u0441\u0442\u044c 2","descr":"","start":"2017-07-16","end":"2017-08-31","competitions":"19,20,12,15,16,13,17,18,596,681,967,974,565,902,739,904,907,915,301,911,903","games":"","awards":"[{\"user\":\"65181\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2017. \u0447\u0430\u0441\u0442\u044c 2)\"},{\"user\":\"74552\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2017. \u0447\u0430\u0441\u0442\u044c 2)\"},{\"user\":\"62255\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2017. \u0447\u0430\u0441\u0442\u044c 2)\"}]","settings":""},{"id":"43","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2017","descr":"","start":"2017-09-01","end":"2017-09-30","competitions":"19,20,739,13,16,12,565,17,15,18,596,681","games":"","awards":"[{\"user\":\"88124\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2017)\"},{\"user\":\"92085\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2017)\"},{\"user\":\"69025\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2017)\"}]","settings":""},{"id":"44","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2017","descr":"","start":"2017-10-01","end":"2017-10-31","competitions":"19,20,739,13,16,12,565,17,15,18,596,681","games":"","awards":"[{\"user\":\"4234\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2017)\"},{\"user\":\"67755\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2017)\"},{\"user\":\"31614\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2017)\"}]","settings":""},{"id":"45","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2017","descr":"","start":"2017-11-01","end":"2017-11-30","competitions":"19,20,739,13,16,12,565,17,15,18,596,681","games":"","awards":"[{\"user\":\"75958\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2017)\"},{\"user\":\"101919\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2017)\"},{\"user\":\"31666\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2017)\"}]","settings":""},{"id":"46","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2017","descr":"","start":"2017-12-01","end":"2017-12-31","competitions":"19,20,13,16,12,565,17,15,18,596,681,21","games":"865340,865343","awards":"[{\"user\":\"2950\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2017)\"},{\"user\":\"73105\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2017)\"},{\"user\":\"41668\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2017)\"}]","settings":""},{"id":"47","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2018","descr":"","start":"2018-01-01","end":"2018-01-31","competitions":"16,12,565,17,15,18,596,681,21,758,821,783,766,784,813","games":"","awards":"[{\"user\":\"18927\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2018)\"},{\"user\":\"89061\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2018)\"},{\"user\":\"4673\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2018)\"}]","settings":""},{"id":"48","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2018","descr":"","start":"2018-02-01","end":"2018-02-28","competitions":"12,15,16,17,18,19,20,596,681,21,821,783,766,821,758,813,784,565,786","games":"","awards":"[{\"user\":\"33715\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2018)\"},{\"user\":\"46101\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2018)\"},{\"user\":\"5762\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2018)\"}]","settings":""},{"id":"49","title":"\u041c\u0430\u0440\u0442 2018","descr":"","start":"2018-03-01","end":"2018-03-31","competitions":"12,15,16,17,18,19,20,596,681,821,766,821,758,813,13,565,784,23,786,783","games":"","awards":"[{\"user\":\"78116\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2018)\"},{\"user\":\"122072\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2018)\"},{\"user\":\"46132\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2018)\"}]","settings":""},{"id":"50","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2018","descr":"","start":"2018-04-01","end":"2018-04-30","competitions":"12,15,16,17,18,19,20,596,681,821,766,821,813,13,565,784,23,786,783,805,758","games":"","awards":"[{\"user\":\"24817\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2018)\"},{\"user\":\"73105\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2018)\"},{\"user\":\"45777\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2018)\"}]","settings":""},{"id":"51","title":"\u041c\u0430\u0439 2018","descr":"","start":"2018-05-01","end":"2018-05-31","competitions":"12,15,16,17,18,19,20,596,681,766,821,813,13,565,23,786,805,436,419","games":"912945,915981,915982,915988,915989,915983,915984","awards":"[{\"user\":\"72160\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2018)\"},{\"user\":\"71163\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2018)\"},{\"user\":\"65181\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2018)\"}]","settings":""},{"id":"53","title":"\u0427\u041c-2018","descr":"","start":"2018-06-14","end":"2018-07-15","competitions":"742","games":"","awards":"[{\"user\":\"18573\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0447\u043c-2018)\"},{\"user\":\"3184\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0447\u043c-2018)\"},{\"user\":\"104457\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0447\u043c-2018)\"}]","settings":""},{"id":"54","title":"\u0418\u044e\u043b\u044c 2018","descr":"","start":"2018-07-01","end":"2018-07-31","competitions":"19,20,419,436,974,13,967,14","games":"","awards":"[{\"user\":\"4047\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2018)\"},{\"user\":\"15806\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2018)\"},{\"user\":\"12070\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2018)\"}]","settings":""},{"id":"55","title":"\u0410\u0432\u0433\u0443\u0441\u0442 2018","descr":"","start":"2018-08-01","end":"2018-08-31","competitions":"12,13,20,19,16,17,18,681,596,15,301,903,902,907,904,915,905","games":"","awards":"[{\"user\":\"123439\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2018)\"},{\"user\":\"57824\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2018)\"},{\"user\":\"61009\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2018)\"}]","settings":""},{"id":"56","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2018","descr":"","start":"2018-09-01","end":"2018-09-30","competitions":"12,13,15,16,17,18,19,20,596,681,1658,1659,1660,1661","games":"","awards":"[{\"user\":\"136146\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2018)\"},{\"user\":\"128029\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2018)\"},{\"user\":\"44687\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2018)\"}]","settings":""},{"id":"57","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2018","descr":"","start":"2018-10-01","end":"2018-10-31","competitions":"12,13,15,16,17,18,19,20,596,681,1658,1659,1660,1661","games":"","awards":"[{\"user\":\"14083\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2018)\"},{\"user\":\"67755\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2018)\"},{\"user\":\"45777\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2018)\"}]","settings":""},{"id":"58","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2018","descr":"","start":"2018-11-01","end":"2018-11-30","competitions":"1658,1659,1660,1661,19,13,16,12,15,17,18,20,596,681","games":"","awards":"[{\"user\":\"112890\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2018)\"},{\"user\":\"43052\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2018)\"},{\"user\":\"4673\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2018)\"}]","settings":""},{"id":"59","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2018","descr":"","start":"2018-12-01","end":"2018-12-31","competitions":"12,13,15,16,17,18,19,20,596,681","games":"","awards":"[{\"user\":\"104457\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2018)\"},{\"user\":\"57579\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2018)\"},{\"user\":\"124820\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2018)\"}]","settings":""},{"id":"60","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2019","descr":"","start":"2019-01-01","end":"2019-01-31","competitions":"12,15,16,17,18,21,596,681,758,766,783,821,911","games":"","awards":"[{\"user\":\"134558\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2019)\"},{\"user\":\"129922\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2019)\"},{\"user\":\"45777\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2019)\"}]","settings":""},{"id":"61","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2019","descr":"","start":"2019-02-01","end":"2019-02-28","competitions":"16,12,15,18,17,21,19,20,596,758,681,786,813,821,766,783,784","games":"","awards":"[{\"user\":\"32308\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2019)\"},{\"user\":\"2950\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2019)\"},{\"user\":\"131669\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2019)\"}]","settings":""},{"id":"62","title":"\u041c\u0430\u0440\u0442 2019","descr":"","start":"2019-03-01","end":"2019-03-31","competitions":"12,15,16,17,18,19,20,23,596,681,758,766,783,784,786,813,821,1253,13","games":"","awards":"[{\"user\":\"19790\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2019)\"},{\"user\":\"95323\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2019)\"},{\"user\":\"142804\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2019)\"}]","settings":""},{"id":"63","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2019","descr":"","start":"2019-04-01","end":"2019-04-30","competitions":"12,13,15,16,17,18,19,20,23,596,681,758,766,805,784,786,813,821","games":"","awards":"[{\"user\":\"28558\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2019)\"},{\"user\":\"95323\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2019)\"},{\"user\":\"121525\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2019)\"}]","settings":""},{"id":"64","title":"\u041c\u0430\u0439 2019","descr":"","start":"2019-05-01","end":"2019-05-31","competitions":"12,13,15,16,17,18,19,20,23,596,681,758,766,784,786,813,821","games":"","awards":"[{\"user\":\"163956\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2019)\"},{\"user\":\"4226\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2019)\"},{\"user\":\"49996\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2019)\"}]","settings":""},{"id":"65","title":"\u041b\u0435\u0442\u043e 2019. \u0427\u0430\u0441\u0442\u044c 1","descr":"","start":"2019-06-01","end":"2019-07-15","competitions":"13,19,419,436,618,744,974,1253,1658,20","games":"","awards":"[{\"user\":\"28648\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2019. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"10689\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2019. \u0447\u0430\u0441\u0442\u044c 1)\"},{\"user\":\"29644\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2019. \u0447\u0430\u0441\u0442\u044c 1)\"}]","settings":"{\"prizes\":{\"1\":225,\"2\":150,\"3\":75,\"4\":15,\"10\":15,\"11\":9,\"30\":9}}"},{"id":"66","title":"\u041b\u0435\u0442\u043e 2019. \u0427\u0430\u0441\u0442\u044c 2","descr":"","start":"2019-07-16","end":"2019-08-31","competitions":"12,13,15,16,17,18,19,20,301,596,681,744,902,903,904,905,907,915,967","games":"","awards":"[{\"user\":\"33337\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2019. \u0447\u0430\u0441\u0442\u044c 2)\"},{\"user\":\"71064\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2019. \u0447\u0430\u0441\u0442\u044c 2)\"},{\"user\":\"182899\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043b\u0435\u0442\u043e 2019. \u0447\u0430\u0441\u0442\u044c 2)\"}]","settings":"{\"prizes\":{\"1\":225,\"2\":150,\"3\":75,\"4\":15,\"10\":15,\"11\":9,\"30\":9}}"},{"id":"67","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2019","descr":"","start":"2019-09-01","end":"2019-09-30","competitions":"12,13,15,16,17,18,19,20,596,681,1253","games":"","awards":"[{\"user\":\"19123\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2019)\"},{\"user\":\"31572\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2019)\"},{\"user\":\"51296\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2019)\"}]","settings":""},{"id":"68","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2019","descr":"","start":"2019-10-01","end":"2019-10-31","competitions":"12,13,16,15,17,18,19,20,596,681,1253","games":"","awards":"[{\"user\":\"66684\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2019)\"},{\"user\":\"112801\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2019)\"},{\"user\":\"129024\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2019)\"}]","settings":""},{"id":"69","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2019","descr":"","start":"2019-11-01","end":"2019-11-30","competitions":"12,13,15,16,17,18,19,20,596,681,1253","games":"","awards":"[{\"user\":\"1382\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2019)\"},{\"user\":\"15806\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2019)\"},{\"user\":\"84272\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2019)\"}]","settings":""},{"id":"70","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2019","descr":"","start":"2019-12-01","end":"2019-12-31","competitions":"12,13,15,16,17,18,19,20,596,681,21","games":"","awards":"[{\"user\":\"46132\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2019)\"},{\"user\":\"64480\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2019)\"},{\"user\":\"73341\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2019)\"}]","settings":""},{"id":"71","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2020","descr":"","start":"2020-01-01","end":"2020-01-31","competitions":"12,15,16,17,18,21,596,681,783,301","games":"","awards":"[{\"user\":\"285\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2020)\"},{\"user\":\"37552\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2020)\"},{\"user\":\"174376\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2020)\"}]","settings":""},{"id":"72","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2020","descr":"","start":"2020-02-01","end":"2020-02-29","competitions":"12,15,16,17,18,596,681,19,20,813,758,23,821,13,805,21,784,766","games":"","awards":"[{\"user\":\"44687\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2020)\"},{\"user\":\"121805\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2020)\"},{\"user\":\"167866\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2020)\"}]","settings":""},{"id":"73","title":"\u041c\u0430\u0440\u0442 2020","descr":"","start":"2020-03-01","end":"2020-03-17","competitions":"12,13,15,16,17,18,19,20,21,23,596,681,758,766,784,786,805,813,821","games":"","awards":"[{\"user\":\"78809\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2020)\"},{\"user\":\"89260\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2020)\"},{\"user\":\"231730\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2020)\"}]","settings":"{\"prizes\":{\"1\":75,\"2\":50,\"3\":25,\"4\":5,\"10\":5,\"11\":3,\"30\":3}}"},{"id":"74","title":"\u041a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439","descr":"","start":"2020-05-16","end":"2020-07-31","competitions":"12,13,15,16,17,23,483,681,786,805,813,821,783","games":"","awards":"[{\"user\":\"44687\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439)\"},{\"user\":\"128029\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439)\"},{\"user\":\"199413\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439)\"}]","settings":"{\"prizes\":{\"1\":500,\"2\":300,\"3\":150,\"4\":75,\"10\":75,\"11\":25,\"20\":25,\"21\":15,\"30\":15,\"31\":10,\"50\":10}}"},{"id":"75","title":"\u041a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439 2","descr":"","start":"2020-08-01","end":"2020-09-30","competitions":"12,13,15,16,17,18,19,20,596,681,902,903,967,974,1658,1659,1660,1661","games":"1412374,1377102","awards":"[{\"user\":\"95818\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439 2)\"},{\"user\":\"150054\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439 2)\"},{\"user\":\"239144\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u044b\u0439 2)\"}]","settings":"{\"prizes\":{\"1\":300,\"2\":200,\"3\":100,\"4\":20,\"10\":20,\"11\":12,\"30\":12}}"},{"id":"76","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2020","descr":"","start":"2020-10-01","end":"2020-10-31","competitions":"12,13,15,16,17,18,19,20,596,681,1658,1659,1660,1661","games":"","awards":"[{\"user\":\"15674\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2020)\"},{\"user\":\"28692\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2020)\"},{\"user\":\"64353\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2020)\"}]","settings":""},{"id":"77","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2020","descr":"","start":"2020-11-01","end":"2020-11-30","competitions":"12,13,15,16,17,18,19,20,596,681,1253,1658,1659,1660,1661,741","games":"","awards":"[{\"user\":\"95323\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2020)\"},{\"user\":\"96596\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2020)\"},{\"user\":\"149203\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2020)\"}]","settings":""},{"id":"78","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2020","descr":"","start":"2020-12-01","end":"2020-12-31","competitions":"12,13,15,16,17,18,19,20,596,681","games":"","awards":"[{\"user\":\"71263\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2020)\"},{\"user\":\"121805\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2020)\"},{\"user\":\"162929\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2020)\"}]","settings":""},{"id":"79","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2021","descr":"","start":"2021-01-01","end":"2021-01-31","competitions":"12,15,16,17,18,596,681,301","games":"","awards":"[{\"user\":\"1317\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2021)\"},{\"user\":\"63835\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2021)\"},{\"user\":\"73105\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2021)\"}]","settings":""},{"id":"80","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2021","descr":"","start":"2021-02-01","end":"2021-02-28","competitions":"12,13,15,16,17,18,19,20,23,596,681,758,766,813,821,824,786","games":"","awards":"[{\"user\":\"13977\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2021)\"},{\"user\":\"31992\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2021)\"},{\"user\":\"139675\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2021)\"}]","settings":""},{"id":"81","title":"\u041c\u0430\u0440\u0442 2021","descr":"","start":"2021-03-01","end":"2021-03-31","competitions":"12,13,15,16,17,18,19,20,23,596,681,739,758,766,786,813,821,1660","games":"","awards":"[{\"user\":\"4047\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2021)\"},{\"user\":\"5280\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2021)\"},{\"user\":\"197339\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2021)\"}]","settings":""},{"id":"82","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2021","descr":"","start":"2021-04-01","end":"2021-04-30","competitions":"12,13,15,16,17,18,19,20,23,301,596,681,758,766,786,813,821","games":"1441828","awards":"[{\"user\":\"3468\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2021)\"},{\"user\":\"89260\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2021)\"},{\"user\":\"190041\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2021)\"}]","settings":"","place":"2196"},{"id":"83","title":"\u041c\u0430\u0439 2021","descr":"","start":"2021-05-01","end":"2021-05-31","competitions":"12,13,15,16,17,18,19,20,23,596,681,766,786,805,813,821","games":"1557117,1557118","awards":"[{\"user\":\"24817\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2021)\"},{\"user\":\"119171\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2021)\"},{\"user\":\"174814\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2021)\"}]","settings":"","place":"509"},{"id":"84","title":"\u0418\u044e\u043d\u044c 2021","descr":"","start":"2021-06-01","end":"2021-06-30","competitions":"24,618","games":"","awards":"[{\"user\":\"46101\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2021)\"},{\"user\":\"139610\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2021)\"},{\"user\":\"160410\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2021)\"}]","settings":"","place":"935"},{"id":"85","title":"\u0418\u044e\u043b\u044c 2021","descr":"","start":"2021-07-01","end":"2021-07-31","competitions":"13,19,20,24,616,618,967,974,1016,2032,915","games":"","awards":"[{\"user\":\"64480\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2021)\"},{\"user\":\"73105\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2021)\"},{\"user\":\"280641\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2021)\"}]","settings":"","place":"1348"},{"id":"86","title":"\u0410\u0432\u0433\u0443\u0441\u0442 2021","descr":"","start":"2021-08-01","end":"2021-08-31","competitions":"12,13,15,16,17,18,19,20,596,681,902,903,904,905,907,2032,1016,616","games":"","awards":"[{\"user\":\"60752\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2021)\"},{\"user\":\"96596\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2021)\"},{\"user\":\"283464\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2021)\"}]","settings":"","place":"1282"},{"id":"87","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2021","descr":"","start":"2021-09-01","end":"2021-09-30","competitions":"12,13,15,16,17,18,19,20,2032,596,681,739,741","games":"","awards":"[{\"user\":\"68068\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2021)\"},{\"user\":\"290237\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2021)\"},{\"user\":\"291240\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2021)\"}]","settings":""},{"id":"88","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2021","descr":"","start":"2021-10-01","end":"2021-10-31","competitions":"12,13,15,16,17,18,19,20,596,681,739,741,2032,1658","games":"","awards":"[{\"user\":\"29644\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2021)\"},{\"user\":\"67854\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2021)\"},{\"user\":\"217295\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2021)\"}]","settings":""},{"id":"89","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2021","descr":"","start":"2021-11-01","end":"2021-11-30","competitions":"12,13,15,16,17,18,19,20,596,681,739,741,1658,2032","games":"","awards":"[{\"user\":\"64480\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2021)\"},{\"user\":\"206466\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2021)\"},{\"user\":\"285464\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2021)\"}]","settings":""},{"id":"90","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2021","descr":"","start":"2021-12-01","end":"2021-12-31","competitions":"12,13,15,16,17,18,19,20,596,681,2032,21","games":"","awards":"[{\"user\":\"2745\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2021)\"},{\"user\":\"219517\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2021)\"},{\"user\":\"285464\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2021)\"}]","settings":""},{"id":"91","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2022","descr":"","start":"2022-01-01","end":"2022-01-31","competitions":"12,15,16,17,18,21,23,301,596,681,744,750,758,766,784,805,813,821,911,741,738,737","games":"","awards":"[{\"user\":\"162929\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2022)\"},{\"user\":\"215730\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2022)\"},{\"user\":\"268311\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2022)\"}]","settings":""},{"id":"92","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2022","descr":"","start":"2022-02-01","end":"2022-02-28","competitions":"12,15,16,17,18,19,20,21,23,596,681,737,738,741,744,758,784,805,813,821,2032,13","games":"","awards":"[{\"user\":\"55433\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2022)\"},{\"user\":\"59575\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2022)\"},{\"user\":\"64984\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2022)\"}]","settings":""},{"id":"93","title":"\u041c\u0430\u0440\u0442 2022","descr":"","start":"2022-03-01","end":"2022-03-31","competitions":"12,13,15,16,17,18,19,20,23,596,681,739,758,784,805,813,821,2032,741,736","games":"","awards":"[{\"user\":\"62255\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2022)\"},{\"user\":\"150054\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2022)\"},{\"user\":\"239208\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2022)\"}]","settings":""},{"id":"94","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2022","descr":"","start":"2022-04-01","end":"2022-04-30","competitions":"12,13,15,16,17,18,19,20,23,596,681,758,784,805,813,821,2032,786","games":"","awards":"[{\"user\":\"40099\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2022)\"},{\"user\":\"65181\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2022)\"},{\"user\":\"121805\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2022)\"}]","settings":""},{"id":"95","title":"\u041c\u0430\u0439 2022","descr":"","start":"2022-05-01","end":"2022-05-31","competitions":"12,13,15,16,17,18,19,20,23,596,681,784,786,805,813,821,2032,766","games":"","awards":"[{\"user\":\"5280\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2022)\"},{\"user\":\"169934\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2022)\"},{\"user\":\"185973\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2022)\"}]","settings":""},{"id":"96","title":"\u0418\u044e\u043d\u044c 2022","descr":"","start":"2022-06-01","end":"2022-06-30","competitions":"419,436,483,739,924,938,1581,1658,1659,1660,1661,2116,19,20,2032","games":"","awards":"[{\"user\":\"15744\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2022)\"},{\"user\":\"34621\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2022)\"},{\"user\":\"105443\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2022)\"}]","settings":""},{"id":"97","title":"\u0418\u044e\u043b\u044c 2022","descr":"","start":"2022-07-01","end":"2022-07-31","competitions":"13,19,813,902,904,905,907,915,974,2032,938","games":"","awards":"[{\"user\":\"67541\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2022)\"},{\"user\":\"296860\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2022)\"},{\"user\":\"318213\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2022)\"}]","settings":"","place":"1031"},{"id":"98","title":"\u0410\u0432\u0433\u0443\u0441\u0442 2022","descr":"","start":"2022-08-01","end":"2022-08-31","competitions":"12,13,15,16,17,19,20,2032,18,681,596,903","games":"","awards":"[{\"user\":\"1306\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2022)\"},{\"user\":\"151328\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2022)\"},{\"user\":\"286577\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2022)\"}]","settings":"","place":"1040"},{"id":"99","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2022","descr":"","start":"2022-09-01","end":"2022-09-30","competitions":"12,13,15,16,17,18,19,20,596,681,2032,786,1658,1659,1660,1661","games":"","awards":"[{\"user\":\"30514\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2022)\"},{\"user\":\"70637\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2022)\"},{\"user\":\"164609\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2022)\"}]","settings":"","place":"885"},{"id":"100","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2022","descr":"","start":"2022-10-01","end":"2022-10-31","competitions":"12,13,15,16,17,18,19,20,596,681,786,2032","games":"","awards":"[{\"user\":\"33715\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2022)\"},{\"user\":\"69957\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2022)\"},{\"user\":\"239208\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2022)\"}]","settings":"","place":"1446"},{"id":"101","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2022","descr":"","start":"2022-11-01","end":"2022-11-30","competitions":"12,13,15,16,17,18,19,20,21,596,681,742,2032","games":"","awards":"[{\"user\":\"2950\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2022)\"},{\"user\":\"33337\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2022)\"},{\"user\":\"128029\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2022)\"}]","settings":""},{"id":"102","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2022","descr":"","start":"2022-12-01","end":"2022-12-31","competitions":"12,16,18,21,681,742,750,758","games":"","awards":"[{\"user\":\"122699\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2022)\"},{\"user\":\"226719\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2022)\"},{\"user\":\"280601\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2022)\"}]","settings":""},{"id":"103","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2023","descr":"","start":"2023-01-01","end":"2023-01-31","competitions":"12,15,16,17,18,21,23,596,681,750,758,766,784,805,813,821,301","games":"","awards":"[{\"user\":\"19698\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2023)\"},{\"user\":\"71263\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2023)\"},{\"user\":\"116003\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2023)\"}]","settings":"","place":"1542"},{"id":"104","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2023","descr":"","start":"2023-02-01","end":"2023-02-28","competitions":"12,15,16,17,18,19,20,21,23,596,681,750,758,766,784,805,813,821,2032,786","games":"","awards":"[{\"user\":\"40099\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2023)\"},{\"user\":\"112762\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2023)\"},{\"user\":\"321894\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2023)\"}]","settings":""},{"id":"105","title":"\u041c\u0430\u0440\u0442 2023","descr":"","start":"2023-03-01","end":"2023-03-31","competitions":"12,13,15,16,17,18,19,20,21,23,596,681,758,766,784,786,805,813,821,2032,1253","games":"","awards":"[{\"user\":\"62255\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2023)\"},{\"user\":\"139610\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2023)\"},{\"user\":\"197339\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0440\u0442 2023)\"}]","settings":"","place":"1213"},{"id":"106","title":"\u0410\u043f\u0440\u0435\u043b\u044c 2023","descr":"","start":"2023-04-01","end":"2023-04-30","competitions":"12,13,15,16,17,18,19,20,23,596,681,758,766,784,786,805,813,821,2032","games":"","awards":"[{\"user\":\"8178\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2023)\"},{\"user\":\"68068\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2023)\"},{\"user\":\"120243\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u043f\u0440\u0435\u043b\u044c 2023)\"}]","settings":"","place":"851"},{"id":"107","title":"\u041c\u0430\u0439 2023","descr":"","start":"2023-05-01","end":"2023-05-31","competitions":"12,13,15,16,17,18,19,20,2032,23,596,681,758,766,784,786,805,813,821","games":"","awards":"[{\"user\":\"57579\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2023)\"},{\"user\":\"110402\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2023)\"},{\"user\":\"333274\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043c\u0430\u0439 2023)\"}]","settings":"","place":"253"},{"id":"108","title":"\u0418\u044e\u043d\u044c 2023","descr":"","start":"2023-06-01","end":"2023-06-30","competitions":"13,15,16,17,18,19,23,681,746,766,786,813,1253,1658,2032,596","games":"1898340,1898341,1898342,1898343","awards":"[{\"user\":\"224325\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2023)\"},{\"user\":\"300828\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2023)\"},{\"user\":\"307772\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043d\u044c 2023)\"}]","settings":"","place":"1714"},{"id":"109","title":"\u0418\u044e\u043b\u044c 2023","descr":"","start":"2023-07-01","end":"2023-07-31","competitions":"13,746,19,2032,974","games":"","awards":"[{\"user\":\"71263\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2023)\"},{\"user\":\"104457\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2023)\"},{\"user\":\"300395\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0438\u044e\u043b\u044c 2023)\"}]","settings":""},{"id":"110","title":"\u0410\u0432\u0433\u0443\u0441\u0442 2023","descr":"","start":"2023-08-01","end":"2023-08-31","competitions":"12,13,15,16,17,18,19,20,596,681,786,902,903,907,915,2032","games":"","awards":"[{\"user\":\"95818\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2023)\"},{\"user\":\"252007\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2023)\"},{\"user\":\"316468\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0430\u0432\u0433\u0443\u0441\u0442 2023)\"}]","settings":"","place":"2628"},{"id":"111","title":"\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2023","descr":"","start":"2023-09-01","end":"2023-09-30","competitions":"12,13,15,16,17,18,19,20,21,596,681,741,786,813,1253,2032","games":"","awards":"[{\"user\":\"111959\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2023)\"},{\"user\":\"149203\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2023)\"},{\"user\":\"258272\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044c 2023)\"}]","settings":""},{"id":"112","title":"\u041e\u043a\u0442\u044f\u0431\u0440\u044c 2023","descr":"","start":"2023-10-01","end":"2023-10-31","competitions":"12,13,15,16,17,18,19,20,596,681,786,813,2032,1253,741,821,750,784,21","games":"","awards":"[{\"user\":\"88128\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2023)\"},{\"user\":\"182899\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2023)\"},{\"user\":\"189316\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043e\u043a\u0442\u044f\u0431\u0440\u044c 2023)\"}]","settings":""},{"id":"113","title":"\u041d\u043e\u044f\u0431\u0440\u044c 2023","descr":"","start":"2023-11-01","end":"2023-11-30","competitions":"12,13,15,16,17,18,19,20,21,596,681,741,786,813,821,2032,1253","games":"","awards":"[{\"user\":\"31992\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2023)\"},{\"user\":\"43052\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2023)\"},{\"user\":\"74764\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u043d\u043e\u044f\u0431\u0440\u044c 2023)\"}]","settings":""},{"id":"114","title":"\u0414\u0435\u043a\u0430\u0431\u0440\u044c 2023","descr":"","start":"2023-12-01","end":"2023-12-31","competitions":"12,13,15,16,17,18,19,20,596,681,821,758,813,21,2032","games":"","awards":"[{\"user\":\"367306\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2023)\"},{\"user\":\"368402\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2023)\"},{\"user\":\"376153\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0434\u0435\u043a\u0430\u0431\u0440\u044c 2023)\"}]","settings":"","place":"365"},{"id":"115","title":"\u042f\u043d\u0432\u0430\u0440\u044c 2024","descr":"","start":"2024-01-01","end":"2024-01-31","competitions":"12,15,16,17,18,21,23,301,596,681,744,758,766,784,805,813,821,904,911,750","games":"","awards":"[{\"user\":\"81458\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2024)\"},{\"user\":\"329210\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2024)\"},{\"user\":\"339587\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u044f\u043d\u0432\u0430\u0440\u044c 2024)\"}]","settings":"","place":"1495"},{"id":"116","title":"\u0424\u0435\u0432\u0440\u0430\u043b\u044c 2024","descr":"","start":"2024-02-01","end":"2024-02-29","competitions":"12,15,16,17,18,596,681,744,758,813,805,19,20,2032","games":"","awards":"[{\"user\":\"72676\",\"place\":\"3\",\"title\":\"3 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2024)\"},{\"user\":\"92562\",\"place\":\"1\",\"title\":\"1 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2024)\"},{\"user\":\"187802\",\"place\":\"2\",\"title\":\"2 \u043c\u0435\u0441\u0442\u043e (\u0444\u0435\u0432\u0440\u0430\u043b\u044c 2024)\"}]","settings":"","place":"2789"},{"id":"117","title":"\u041c\u0430\u0440\u0442 2024","descr":"","start":"2024-03-01","end":"2024-03-31","competitions":"12,15,16,17,18,19,20,2032,596,681,13,813,786,805,23,821,758,784,766,1253","games":"","awards":"","settings":"","linecolor":"#2498d2"}],
+				"categoryField": "title",
+				"graphs": [{
+					"lineColorField": "linecolor",
+					"balloonText": "<b>[[value]]</b> Место",
+					"bullet": "square",
+					"bulletBorderAlpha": 1,
+					"bulletColor":"#FFFFFF",
+					"useLineColorForBulletBorder":true,
+					"connect": false,
+					"valueField": "place",
+					"bulletBorderThickness": 1,
+					"cursorBulletAlpha": 0
+				}],
+				"balloon": {
+					"shadowAlpha": 0
+				},
+				"categoryAxis": {
+					"labelRotation": 90,
+					"axisAlpha": 0,
+					"gridAlpha": 0
+				}
+			});
+			function formatValue(value, formattedValue, valueAxis){
+				if(value === 0){
+					return 1;
+				} else {
+					return value;
+				}
+			}	
+		</script>
+	</div>
+	
+	
+		<div class="mrgt20"></div>
+	<div class="block_header"><a href="/predictions/">Конкурс прогнозов</a>&nbsp;&nbsp;&nbsp;&nbsp;статистика по соревнованиям</div>
+	<div class="block_body_nopadding"><script  type="text/javascript" src="https://s.scr365.net/js/tablesorter/jquery.tablesorter.min.js?v=3"></script><table id="predict_comps" class="tablesorter" border="0" cellspacing="0" cellpadding="0">
+	<thead><tr>
+		<th class="w150">Соревнование</th>
+		<th class="w50">Прогнозы</th>	
+		<th class="w50">Счет</th>
+		<th class="w50">Разница</th>
+		<th class="w50">Исход</th>
+		<th class="w60">Очки за матч</th>
+	</tr></thead>
+	<tbody>
+		<tr>
+		<td >
+						<a href="/competitions/2032/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_69_9/rcMtDpwfV_16_2032.svg" /><span>Лига конференций</span></div>
+			</a>
+					</td>
+		<td class="al_c">322</td>
+		<td class="al_c">8% (25)</td>
+		<td class="al_c">19% (62)</td>
+		<td class="al_c">46% (147)</td>
+		<td class="al_c bld">1.26</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/12/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Премьер-Лига</span></div>
+			</a>
+					</td>
+		<td class="al_c">314</td>
+		<td class="al_c">9% (29)</td>
+		<td class="al_c">24% (74)</td>
+		<td class="al_c">50% (158)</td>
+		<td class="al_c bld">1.43</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/16/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Spain.png" /><span>Примера</span></div>
+			</a>
+					</td>
+		<td class="al_c">292</td>
+		<td class="al_c">13% (37)</td>
+		<td class="al_c">24% (70)</td>
+		<td class="al_c">43% (126)</td>
+		<td class="al_c bld">1.36</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/15/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Italy.png" /><span>Серия А</span></div>
+			</a>
+					</td>
+		<td class="al_c">286</td>
+		<td class="al_c">9% (25)</td>
+		<td class="al_c">24% (70)</td>
+		<td class="al_c">47% (134)</td>
+		<td class="al_c bld">1.36</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/18/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Лига 1</span></div>
+			</a>
+					</td>
+		<td class="al_c">273</td>
+		<td class="al_c">7% (20)</td>
+		<td class="al_c">22% (61)</td>
+		<td class="al_c">46% (125)</td>
+		<td class="al_c bld">1.29</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/681/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Portugal.png" /><span>Примейра Лига</span></div>
+			</a>
+					</td>
+		<td class="al_c">254</td>
+		<td class="al_c">11% (29)</td>
+		<td class="al_c">20% (52)</td>
+		<td class="al_c">48% (122)</td>
+		<td class="al_c bld">1.39</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/596/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Netherlands.png" /><span>Эредивизи</span></div>
+			</a>
+					</td>
+		<td class="al_c">237</td>
+		<td class="al_c">5% (13)</td>
+		<td class="al_c">21% (49)</td>
+		<td class="al_c">51% (122)</td>
+		<td class="al_c bld">1.35</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/17/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Germany.png" /><span>Бундеслига</span></div>
+			</a>
+					</td>
+		<td class="al_c">223</td>
+		<td class="al_c">4% (8)</td>
+		<td class="al_c">16% (35)</td>
+		<td class="al_c">42% (93)</td>
+		<td class="al_c bld">1.06</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/13/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Russian Federation.png" /><span>Премьер-Лига</span></div>
+			</a>
+					</td>
+		<td class="al_c">214</td>
+		<td class="al_c">11% (23)</td>
+		<td class="al_c">23% (50)</td>
+		<td class="al_c">52% (112)</td>
+		<td class="al_c bld">1.50</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/19/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_69_9/to3rP5Z_16_19.svg" /><span>Лига Чемпионов</span></div>
+			</a>
+					</td>
+		<td class="al_c">152</td>
+		<td class="al_c">12% (18)</td>
+		<td class="al_c">22% (34)</td>
+		<td class="al_c">55% (84)</td>
+		<td class="al_c bld">1.57</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/20/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/21_206_13/f7CxHuG_16_20.png" /><span>Лига Европы</span></div>
+			</a>
+					</td>
+		<td class="al_c">101</td>
+		<td class="al_c">5% (5)</td>
+		<td class="al_c">15% (15)</td>
+		<td class="al_c">42% (42)</td>
+		<td class="al_c bld">1.08</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/24/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/22_282_9/A7dqy_16_24.png" /><span>Чемпионат Европы</span></div>
+			</a>
+					</td>
+		<td class="al_c">48</td>
+		<td class="al_c">6% (3)</td>
+		<td class="al_c">13% (6)</td>
+		<td class="al_c">35% (17)</td>
+		<td class="al_c bld">0.96</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/1253/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/19_78_22/wN1zl_16_1253.png" /><span>Чемпионат Европы - отборочный турнир</span></div>
+			</a>
+					</td>
+		<td class="al_c">46</td>
+		<td class="al_c">11% (5)</td>
+		<td class="al_c">17% (8)</td>
+		<td class="al_c">57% (26)</td>
+		<td class="al_c bld">1.52</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/786/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Russian%20Federation.png" /><span>Кубок России</span></div>
+			</a>
+					</td>
+		<td class="al_c">44</td>
+		<td class="al_c">7% (3)</td>
+		<td class="al_c">25% (11)</td>
+		<td class="al_c">48% (21)</td>
+		<td class="al_c bld">1.34</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/813/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Germany.png" /><span>Кубок Германии</span></div>
+			</a>
+					</td>
+		<td class="al_c">38</td>
+		<td class="al_c">0</td>
+		<td class="al_c">8% (3)</td>
+		<td class="al_c">53% (20)</td>
+		<td class="al_c bld">1.13</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/758/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Spain.png" /><span>Кубок Испании</span></div>
+			</a>
+					</td>
+		<td class="al_c">29</td>
+		<td class="al_c">10% (3)</td>
+		<td class="al_c">24% (7)</td>
+		<td class="al_c">55% (16)</td>
+		<td class="al_c bld">1.55</td>
+	</tr>
+		<tr>
+		<td >
+						<a href="/competitions/14/">
+								<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Ukraine.png" /><span>Премьер-Лига</span></div>
+			</a>
+					</td>
+		<td class="al_c">7</td>
+		<td class="al_c">14% (1)</td>
+		<td class="al_c">43% (3)</td>
+		<td class="al_c">43% (3)</td>
+		<td class="al_c bld">1.57</td>
+	</tr>
+		<tr>
+		<td >
+			<span class="gr">Остальное</span>		</td>
+		<td class="al_c">241</td>
+		<td class="al_c">7% (17)</td>
+		<td class="al_c">15% (36)</td>
+		<td class="al_c">41% (100)</td>
+		<td class="al_c bld">1.12</td>
+	</tr>
+		</tbody>
+</table>
+<script type="text/javascript">
+	$(document).ready(function(){ 
+		$("#predict_comps").tablesorter({
+			headers:{
+				0:{sortInitialOrder:'asc'},
+				1:{sortInitialOrder:'desc'},
+				2:{sortInitialOrder:'desc'},
+				3:{sortInitialOrder:'desc'},
+				4:{sortInitialOrder:'desc'},
+				5:{sortInitialOrder:'desc'}},
+			sortList: [[1,1],[5,1]]
+		}); 
+	});
+</script>
+</div>
+	
+		<div class="mrgt20"></div>
+	<div class="block_header">Последние прогнозы</div>
+	<div id="predict_result_items">
+	<div class="menu_tab">
+    	<div class="tab_active" onclick="doFilters(0);">Все</div>
+    	<div class="tab" onclick="doFilters(1);">Конкурсные</div>
+		<div class="tab" onclick="doFilters(2);">Внеконкурсные</div>
+	</div>
+						
+<div class="game_block" >
+		<a dt-id="1905683" class="game_link" href="/games/1905683/" title="Бетис - Алавес">
+		<div class="status"><span class="size10">18.02, 13:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Бетис</span><img loading="lazy" src="https://s.scr365.net/teams/2022/10/6/W4NuS_16_14.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/NvZN4_16_6902.png" /><span>Алавес</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 1-0&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(1905683)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Spain.png" /><span>Примера</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="1903138" class="game_link" href="/games/1903138/" title="Вест Хэм - Борнмут">
+		<div class="status"><span class="size10">01.02, 12:30</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Вест Хэм</span><img loading="lazy" src="https://s.scr365.net/s1/logo/4mx3vrORp_16_33.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/4vs8SNt_16_6998.png" /><span>Борнмут</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 0-1&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(1903138)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Премьер-Лига</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2001108" class="game_link" href="/games/2001108/" title="Гамбия - Камерун">
+		<div class="status"><span class="size10">23.01, 10:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Гамбия</span><img loading="lazy" src="https://s.scr365.net/s1/logo/wu0tye_16_7221.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/YXt0gMG_16_7115.png" /><span>Камерун</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 0-2&nbsp;
+						<div class="predict_mark">
+				2			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2001108)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/18_252_17/mGz2n_16_744.png" /><span>Кубок африканских наций</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2001107" class="game_link" href="/games/2001107/" title="Гвинея - Сенегал">
+		<div class="status"><span class="size10">23.01, 10:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Гвинея</span><img loading="lazy" src="https://s.scr365.net/s1/logo/VRMRHL_16_7103.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/ZuRsE77NA_16_396.png" /><span>Сенегал</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 0-1&nbsp;
+						<div class="predict_mark">
+				2			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2001107)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/18_252_17/mGz2n_16_744.png" /><span>Кубок африканских наций</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2012855" class="game_link" href="/games/2012855/" title="Спортинг Лион - Ле-Пюи">
+		<div class="status"><span class="size10">06.01, 07:30</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Спортинг Лион</span><img loading="lazy" src="https://s.scr365.net/s1/logo/DymV2Pipx_16_11133.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/USHcP_16_13420.png" /><span>Ле-Пюи</span></div></div>
+				<div class="gls">2</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 1-0&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2012855)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Кубок Франции</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2012848" class="game_link" href="/games/2012848/" title="Лилль - Голден Лаин">
+		<div class="status"><span class="size10">06.01, 07:30</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Лилль</span><img loading="lazy" src="https://s.scr365.net/teams/2024/1/21/2p9hswDA_16_82.png" /></div></div>
+				<div class="gls">12</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2023/8/22/Lea3I_16_25509.png" /><span>Голден Лаин</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 2-0&nbsp;
+						<div class="predict_mark">
+				2			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2012848)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Кубок Франции</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="1921908" class="game_link" href="/games/1921908/" title="Фрозиноне - Монца">
+		<div class="status"><span class="size10">06.01, 07:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Фрозиноне</span><img loading="lazy" src="https://s.scr365.net/teams/2024/1/19/yFRQK_16_8628.png" /></div></div>
+				<div class="gls">2</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2024/1/19/Sflnx_16_8470.png" /><span>Монца</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 1-0&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(1921908)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Italy.png" /><span>Серия А</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2010514" class="game_link" href="/games/2010514/" title="Сандерленд - Ньюкасл">
+		<div class="status"><span class="size10">06.01, 05:45</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Сандерленд</span><img loading="lazy" src="https://s.scr365.net/teams/2023/7/28/wtuoyCIc9_16_137.png" /></div></div>
+				<div class="gls">0</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2024/3/12/7ROKp_16_210.png" /><span>Ньюкасл</span></div></div>
+				<div class="gls">3</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 2-1&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2010514)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Кубок Англии</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="1925829" class="game_link" href="/games/1925829/" title="Боавишта - Порту">
+		<div class="status"><span class="size10">05.01, 13:45</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Боавишта</span><img loading="lazy" src="https://s.scr365.net/teams/2023/11/3/8B9sEWQ_16_8513.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2023/10/2/FBh5CigJ7_16_123.png" /><span>Порту</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 1-2&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(1925829)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Portugal.png" /><span>Примейра Лига</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2010509" class="game_link" href="/games/2010509/" title="Тоттенхэм - Бернли">
+		<div class="status"><span class="size10">05.01, 13:00</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Тоттенхэм</span><img loading="lazy" src="https://s.scr365.net/teams/2023/7/18/XXeVGn_16_163.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2023/6/15/0VBCl_16_6983.png" /><span>Бернли</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 1-0&nbsp;
+						<div class="predict_mark">
+				5			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2010509)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Кубок Англии</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2012865" class="game_link" href="/games/2012865/" title="Метц - Клермон">
+		<div class="status"><span class="size10">05.01, 12:45</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Метц</span><img loading="lazy" src="https://s.scr365.net/teams/2024/1/19/iS3aTxg_16_98.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+				<div class="pen">пен</div>				<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2024/1/21/LlqgIGb9l_16_7288.png" /><span>Клермон</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 1-0&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+									<div class="qm_info has-tip" title="Учитывается результат основного времени матча" data-tooltipster='{"maxWidth":300}'><span class="icon12" style="background-image:url('https://s.scr365.net/img/icon-question.png');">&nbsp;</span></div>
+					</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2012865)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/France.png" /><span>Кубок Франции</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="1921906" class="game_link" href="/games/1921906/" title="Болонья - Дженоа">
+		<div class="status"><span class="size10">05.01, 12:45</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Болонья</span><img loading="lazy" src="https://s.scr365.net/teams/2021/10/31/0uD2lMp_16_20.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2024/1/19/G8Ltm8qOD_16_212.png" /><span>Дженоа</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 2-0&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(1921906)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Italy.png" /><span>Серия А</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2010510" class="game_link" href="/games/2010510/" title="Фулхэм - Ротерхэм">
+		<div class="status"><span class="size10">05.01, 12:30</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Фулхэм</span><img loading="lazy" src="https://s.scr365.net/teams/2024/1/19/827tB_16_176.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/teams/2023/7/28/UVPytqcr_16_6984.png" /><span>Ротерхэм</span></div></div>
+				<div class="gls">0</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 2-0&nbsp;
+						<div class="predict_mark">
+				2			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2010510)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Кубок Англии</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="2010526" class="game_link" href="/games/2010526/" title="Брентфорд - Вулверхэмптон">
+		<div class="status"><span class="size10">05.01, 12:15</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Брентфорд</span><img loading="lazy" src="https://s.scr365.net/s1/logo/ftzJVP_16_6997.png" /></div></div>
+				<div class="gls">1</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/Hkc86mG_16_41.png" /><span>Вулверхэмптон</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 0-1&nbsp;
+						<div class="predict_mark rs_not">
+				0			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(2010526)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/England.png" /><span>Кубок Англии</span></div>
+		</div>
+			</a>
+</div>					
+<div class="game_block" >
+		<a dt-id="1925834" class="game_link" href="/games/1925834/" title="Спортинг Лиссабон - Эшторил">
+		<div class="status"><span class="size10">05.01, 11:45</span></div>
+		<div class="result">
+			<div class="ht">
+								<div class="name"><div class="img16"><span>Спортинг Лиссабон</span><img loading="lazy" src="https://s.scr365.net/s1/logo/AEzYdtj_16_153.png" /></div></div>
+				<div class="gls">5</div>
+			</div>
+			<div class="at">
+								<div class="name"><div class="img16"><img loading="lazy" src="https://s.scr365.net/s1/logo/vr9au_16_7004.png" /><span>Эшторил</span></div></div>
+				<div class="gls">1</div>
+			</div>		
+		</div>
+				<div class="predict_result">
+			Прогноз: 2-1&nbsp;
+						<div class="predict_mark">
+				2			</div>
+								</div>
+						<div class="icons">
+						<div class="icon"><span class="icon16 cl popup" onClick="showgame(1925834)">&nbsp;</span></div>
+		</div>
+						<div class="cmp">
+						<div class="img16"><img loading="lazy" src="https://s.scr365.net/img/flags/16/Portugal.png" /><span>Примейра Лига</span></div>
+		</div>
+			</a>
+</div>						<div class="block_body_nopadding"><div class="pager"><span class="arrow_disable">&nbsp;«&nbsp;</span><span class="current">1</span><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','2','15','0')"><span class="link">2</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','3','15','0')"><span class="link">3</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','4','15','0')"><span class="link">4</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','5','15','0')"><span class="link">5</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','6','15','0')"><span class="link">6</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','7','15','0')"><span class="link">7</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','8','15','0')"><span class="link">8</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','9','15','0')"><span class="link">9</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','10','15','0')"><span class="link">10</span></a><a href="javascript:void(0); "onClick="GetUserPredictions('279768','3121_505','2','15','0')"><span class="link">&nbsp;»&nbsp;</span></a></div></div>	</div>
+
+<script type="text/javascript">
+	function GetUserPredictions(user_id,num,p,limit,contest) {
+		addLoading('#predict_result_items');
+		$.ajax({
+			type: "GET",
+			url: "https://soccer365.ru/?c=prediction&a=getuserpredictions&user_id="+user_id+"&num="+num+"&p="+p+"&limit="+limit+"&tp="+contest,
+			dataType: 'html',
+			success: function(html){  
+				$("#predict_result_items").html(html);
+				removeLoading('#predict_result_items');
+				tipp_reload();
+			} 
+		});
+	}
+	function doFilters(contest) {
+		addLoading('#predict_result_items');
+		$.get("https://soccer365.ru/", {c:"prediction",a:"getuserpredictions",limit:15,user_id:279768,tp:contest},
+			function(data){
+				$('#predict_result_items').html(data);
+				removeLoading('#predict_result_items');
+				tipp_reload();
+			}
+		);
+	}
+</script>	
+		
+</div>
+
+
+<div class="page_main_bk_right">
+	<div>
+				<div class="adv plc12"><div id='zone_1850438345' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1850438345';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1850438345,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_12">$(document).ready(function(){adView(12,'300x250 - первый (десктоп)','Агенство - 300x250',true);});</script></div>		<div class="mrgt20"></div>
+		
+		
+		
+		<div class="block_header"><a class="white" href="/news/">Новости</a></div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/24_74_0/Ae1AM0b9GRrk.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/19166/">Реал Сосьедад ― Кадис: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">14.03.2024, 15:42 </span>
+					<a class="gray" href="/news/19166/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">0</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/24_74_0/XMFkdTC7bBYR.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/19165/">Палермо ― Венеция: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">14.03.2024, 15:30 </span>
+					<a class="gray" href="/news/19165/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">2</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/24_73_23/yHE00IuubMD0.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/19164/">Кёльн – РБ Лейпциг: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">14.03.2024, 16:05 </span>
+					<a class="gray" href="/news/19164/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">0</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/24_73_23/iXdFyb6CGQoMpf.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/19163/">Аль-Ахли Джидда – Аль-Наср Эр-Рияд: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">14.03.2024, 14:09 </span>
+					<a class="gray" href="/news/19163/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">0</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/24_73_22/PkSluChuFrYVD0.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/19162/">Эмполи – Болонья: превью</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">14.03.2024, 13:41 </span>
+					<a class="gray" href="/news/19162/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">0</span></a>
+			</div>
+</div>
+<div class="mrgt20"></div>
+
+				<div class="adv plc16"><div id='zone_1926685446' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1926685446';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1926685446,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_16">$(document).ready(function(){adView(16,'300x250 - второй (десктоп)','Агенство - 300х250 - второй',true);});</script></div>		<div class="mrgt20"></div>
+		
+		<div class="block_header"><a class="white" href="/articles/">Статьи</a></div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_313_17/Wbo9QALDZjh.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/8635/">История чемпионатов мира. 1982 год</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">10.11.2022, 09:57 </span>
+					<a class="gray" href="/news/8635/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">6</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/21_364_12/l9puuwTqspoV.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/15397/">Луиш Фигу: один из лучших португальских футболистов в истории</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">31.12.2021, 04:05 </span>
+					<a class="gray" href="/news/15397/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">10</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/22_18_8/c78LtQrm0fcSE.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/15458/">Ривалдо – яркая звезда из бразильских трущоб: выиграл всё что можно со сборной, тащил Барселону, зажигал в Греции и Узбекистане</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">19.01.2022, 08:34 </span>
+					<a class="gray" href="/news/15458/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">13</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/21_329_18/P3v4ib726BsX.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/15261/">Радость и боль Роберто Баджо. Противоречивая карьера "Божественного хвостика"</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">26.11.2021, 08:27 </span>
+					<a class="gray" href="/news/15261/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">8</span></a>
+			</div>
+</div>
+<div class="block_item">
+		<div class="wdg_news_thmb">
+		<img src="https://s.scr365.net/s1/photo/20_361_20/B3OJnV42AJ16z.jpg"/>
+	</div>
+		<div class="wdg_news_title">
+		<a href="/news/13242/">Прагматичный живописец от футбола. Марчелло Липпи — друг Фергюсона, враг Баджо и спаситель Ювентуса</a>
+	</div>
+	<div class="wdg_news_info">
+		<span class="news_src">12.02.2023, 05:53 </span>
+					<a class="gray" href="/news/13242/#comments"><span class="icon_comment" style="background-image:url('https://s.scr365.net/img/comment-16.png')">13</span></a>
+			</div>
+</div>
+<div class="mrgt20"></div>
+	</div>
+</div>
+	<div class="footer">
+		<div class="adv plc6"><div id='zone_1980103296' ></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1980103296';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1980103296,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_6">$(document).ready(function(){adView(6,'Футер (десктоп)','Агенство - 980х90 - футер',true);});</script></div>		<div class="footer_bottom">
+			© 2024 Soccer365.ru | 18+
+						<a href="/about/">О сайте</a>
+			<a href="/page/jobs/">Вакансии</a>
+			<a href="/rules/">Правила сайта</a>
+			<a href="/widgets/">Виджеты</a>
+						<a href="javascript:void(0);" onClick="modal_remote('/?c=support&a=start')"><div class="img16"><img loading="lazy" class="lkbug" src="https://s.scr365.net/img/icon-support-16.png" /><span>Служба поддержки</span></div></a>
+			<a href="javascript:void(0);" onClick="modal_remote('/?c=feedback&a=bug_user')"><div class="img16"><img loading="lazy" class="lkbug" src="https://s.scr365.net/img/icon-bug-16.png" /><span>Нашли ошибку?</span></div></a>
+			<a class="icon16 icon_dayn" href="javascript:void(0)" title="Темная тема" onclick="tNightSwitch(this);"><img loading="lazy" src="https://s.scr365.net/img/daynight.svg" /></a>
+			<a class="icon16 icon_mobi" href="javascript:void(0)" onclick="versionSwitch(1);" title="Мобильная версия"><img loading="lazy" src="https://s.scr365.net/img/mobile.svg" /></a>
+			<div class="lang">
+							<a class="icon16 cl en" title="English" href="https://soccer365.me/profile/279768/"/><img loading="lazy" src="https://s.scr365.net/img/ln_en.svg" /></a>
+						</div>
+			<div class="subscr">
+		<a title="Vkontakte" target="_blank" href="https://vk.com/soccer365ru"><img loading="lazy" src="https://s.scr365.net/img/socials/vk_64.png" /></a>
+		<a title="Twitter" target="_blank" href="https://twitter.com/soccer365ru"><img loading="lazy" src="https://s.scr365.net/img/socials/tw_64.png" /></a>
+		<a title="Telegram" target="_blank" href="https://tgclick.com/soccer365soccer"><img loading="lazy" src="https://s.scr365.net/img/socials/tg_64.png" /></a>
+		<a title="Instagram" target="_blank" href="https://www.instagram.com/soccer365_ru/"><img loading="lazy" src="https://s.scr365.net/img/socials/in_64.png" /></a>
+		<a title="RSS" target="_blank" href="https://s.scr365.net/s1/news.xml"><img loading="lazy" src="https://s.scr365.net/img/socials/rss_64.png" /></a>
+	</div>		</div>
+	</div>
+</div>
+
+<div id='zone_1508776038'></div>
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1508776038';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='https://cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1508776038,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script><script id="sp_ab_11">$(document).ready(function(){adView(11,'Брендинг (десктоп)','Агенство - брендинг',false);});</script>
+<div id="scrollTop"><div id="scrollTopButton"></div></div>
+
+<div id="loading"><img src="https://s.scr365.net/img/loading.svg" border="0"/></div>
+<div class="md_close" onClick="modalClose(0);GAEvent('Разное',{'event_category':'Модальное окно','event_action':'Закрыть'});"></div>
+<div id="modalC"><div id="modal" class="modal"><div id="modal_content"></div></div></div>
+
+<link href="https://s.scr365.net/js/tooltipster/tooltipster.bundle.min.css?v=1638340077" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="https://s.scr365.net/lang/ru.js?v=1709116137"></script>
+<script  type="text/javascript" src="https://s.scr365.net/js/sockjs.min.js?v=3"></script><script defer type="text/javascript" src="https://s.scr365.net/js/jquery.validate.min.js?v=1"></script><script defer type="text/javascript" src="https://s.scr365.net/js/jquery.autocomplete.min.js?v=1"></script><script  type="text/javascript" src="https://s.scr365.net/js/tooltipster/tooltipster.bundle.min.js?v=1638340077"></script>
+
+<div id="ad1" class="page_ad pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width:1px!important;height:1px!important;position:absolute!important;left:-10000px!important;top:-1000px!important;"></div>
+<script type="text/javascript">
+	$(document).ready(function($) {
+		tipp_opt_games();
+	});
+</script>
+
+</body>
+</html><!--0.0597-->
